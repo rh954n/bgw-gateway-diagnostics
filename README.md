@@ -1,11 +1,46 @@
-# BGW Gateway Diagnostics
+# BGW620 WiFi / PWiFi Health Analyzer
 
 Author: Reza Hassani
 
-Repository for BGW320 and BGW620 diagnostic scripts.
+Version: V3.5.3
 
-Current Scripts:
-- bgw620_wifi_pwifi_health_v3_4.sh
+Read-only diagnostic tool for BGW620 gateways.
 
-Purpose:
-WiFi, PWiFi, CEVENTC, Memory, ACS, Backhaul, NAT and System Health diagnostics.
+## Features
+
+- WiFi Health Analysis
+- WiFi7 / MLO Health
+- ACS Diagnostics
+- Backhaul / EasyMesh Validation
+- CEVENTC Analysis
+- Neighbor Health Checks
+- Memory Health Analysis
+- DNS / NAT Health Checks
+- CSV Reporting
+- LOG Reporting
+- SCP Upload to BCEO
+
+## Tested Environment
+
+- BGW620
+- BusyBox Linux
+- Linux 5.15.x Firmware
+
+## Output
+
+The script generates:
+
+- CSV report
+- LOG report
+
+and can upload results to:
+
+/home/rh954n/BGW620/
+
+using SCP.
+
+## Notes
+
+Read-only diagnostics.
+
+No gateway configuration changes are performed.
