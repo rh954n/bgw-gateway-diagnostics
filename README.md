@@ -42,5 +42,12 @@ using SCP.
 ## Notes
 
 Read-only diagnostics.
+## Version History
+
+- V3.4  Initial release
+- V3.5  Expanded diagnostics
+- V3.5.1 SCP upload enhancements
+- V3.5.2 Hardcoded /bin/scp upload fix
+- V3.5.3 Enhanced on-screen summaries and usability improvements
 
 No gateway configuration changes are performed.
