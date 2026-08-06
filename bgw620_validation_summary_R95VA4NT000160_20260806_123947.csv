@@ -1,0 +1,12 @@
+RunTimestamp,RGHost,Model,Serial,FirmwareVersion,ScriptVersion,Module,Result,Score,Evidence,ReviewRequired
+"2026-08-06 12:39:55","dsldevice","BGW620","R95VA4NT000160","4.241.40.620.14@5.40.2","V3.5.4a","WiFi","PASS","100","Radio status collected","NO"
+"2026-08-06 12:39:55","dsldevice","BGW620","R95VA4NT000160","4.241.40.620.14@5.40.2","V3.5.4a","Clients","PASS","100","Total associations=4","NO"
+"2026-08-06 12:39:55","dsldevice","BGW620","R95VA4NT000160","4.241.40.620.14@5.40.2","V3.5.4a","MLO","PASS","100","MLO_ACTIVE:TRUE mlc_wlc_up_bm:7; links=3; 320MHz_evidence=7; EHT=1 (0x1)","NO"
+"2026-08-06 12:39:55","dsldevice","BGW620","R95VA4NT000160","4.241.40.620.14@5.40.2","V3.5.4a","Mesh","PASS","100","map_onboarded=1; backhaul=wire; multiap_mode=3; BH_BSS=2; FH_BSS=22","NO"
+"2026-08-06 12:39:55","dsldevice","BGW620","R95VA4NT000160","4.241.40.620.14@5.40.2","V3.5.4a","ACS","WARN","70","ACS command errors=1; exclusions=89","YES"
+"2026-08-06 12:39:55","dsldevice","BGW620","R95VA4NT000160","4.241.40.620.14@5.40.2","V3.5.4a","CEVENTC","WARN","70","Auth=23; Assoc=64; Authorized=74; Disassoc=62; Deauth=7; SAE=46","YES"
+"2026-08-06 12:39:55","dsldevice","BGW620","R95VA4NT000160","4.241.40.620.14@5.40.2","V3.5.4a","Neighbor","WARN","70","Failed=10; Incomplete=0; Reachable=5; Stale=62","YES"
+"2026-08-06 12:39:55","dsldevice","BGW620","R95VA4NT000160","4.241.40.620.14@5.40.2","V3.5.4a","Memory","PASS","100","Total=3861MB; Available=2643MB; Free=2407MB; SUnreclaim=243MB","NO"
+"2026-08-06 12:39:55","dsldevice","BGW620","R95VA4NT000160","4.241.40.620.14@5.40.2","V3.5.4a","DNS_NAT","PASS","100","att.com resolution succeeded","NO"
+"2026-08-06 12:39:55","dsldevice","BGW620","R95VA4NT000160","4.241.40.620.14@5.40.2","V3.5.4a","Stability","INFO","90","5 stability commands captured; manual parser review not required unless another module warns","NO"
+"2026-08-06 12:39:55","dsldevice","BGW620","R95VA4NT000160","4.241.40.620.14@5.40.2","V3.5.4a","OVERALL","PASS_WITH_WARNINGS","90","Grade=GOOD; Review: ACS CEVENTC Neighbor","YES"

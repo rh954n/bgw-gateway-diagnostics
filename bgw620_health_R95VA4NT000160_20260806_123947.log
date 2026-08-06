@@ -1,0 +1,2087 @@
+
+============================================================
+BGW620 HEALTH ANALYZER START
+============================================================
+Version  : V3.5.4a
+Model    : BGW620
+Host     : dsldevice
+Serial   : R95VA4NT000160
+Firmware : 4.241.40.620.14@5.40.2
+CSV      : /tmp/bgw620_health_R95VA4NT000160_20260806_123947.csv
+LOG      : /tmp/bgw620_health_R95VA4NT000160_20260806_123947.log
+SUMMARY  : /tmp/bgw620_validation_summary_R95VA4NT000160_20260806_123947.csv
+
+============================================================
+WIFI RADIO HEALTH
+============================================================
+SSID: "BCEO-620-5.40.2"
+Mode: Managed	RSSI: 0 dBm	SNR: 0 dB	noise: -85 dBm	Channel: 6g101/320-2
+BSSID: 90:93:5A:1F:D8:60	Capability: ESS RRM 
+Beacon Interval: 100 msecs	
+Supported Rates: [ 6(b) 9 12(b) 18 24(b) 36 48 54 ]
+Extended Capabilities: Not_Available
+MLO: MLD Address: 90:93:5A:1F:D8:60
+EHT Capable:
+	Chanspec: 6GHz channel 127 320MHz (0x7043)
+	Primary channel: 101
+	Supported HE MCS:
+	    20/40/80 MHz:
+		NSS1 Tx: 0-11        Rx: 0-11
+		NSS2 Tx: 0-11        Rx: 0-11
+		NSS3 Tx: 0-11        Rx: 0-11
+		NSS4 Tx: 0-11        Rx: 0-11
+	    160 MHz:
+		NSS1 Tx: 0-11        Rx: 0-11
+		NSS2 Tx: 0-11        Rx: 0-11
+		NSS3 Tx: 0-11        Rx: 0-11
+		NSS4 Tx: 0-11        Rx: 0-11
+	BSS Color: 0x0		Partial BSS Color: false
+	BSS Color Disabled: false
+	Supported EHT MCS:
+	    20/40/80 MHz:
+		NSS1 Tx: 0-13        Rx: 0-13      
+		NSS2 Tx: 0-13        Rx: 0-13      
+		NSS3 Tx: 0-13        Rx: 0-13      
+		NSS4 Tx: 0-13        Rx: 0-13      
+	    160 MHz:
+		NSS1 Tx: 0-13        Rx: 0-13      
+		NSS2 Tx: 0-13        Rx: 0-13      
+		NSS3 Tx: 0-13        Rx: 0-13      
+		NSS4 Tx: 0-13        Rx: 0-13      
+	    320 MHz:
+		NSS1 Tx: 0-13        Rx: 0-13      
+		NSS2 Tx: 0-13        Rx: 0-13      
+		NSS3 Tx: 0-13        Rx: 0-13      
+		NSS4 Tx: 0-13        Rx: 0-13      
+QBSS Channel Utilization: 0x22 (13 %)
+
+SSID: "BCEO-620-5.40.2"
+Mode: Managed	RSSI: 0 dBm	SNR: 0 dB	noise: -92 dBm	Channel: 36/80
+BSSID: 90:93:5A:52:94:33	Capability: ESS RRM 
+Beacon Interval: 100 msecs	
+Supported Rates: [ 6(b) 9 12(b) 18 24(b) 36 48 54 ]
+Extended Capabilities: Not_Available
+MLO: MLD Address: 90:93:5A:1F:D8:60
+EHT Capable:
+	Chanspec: 5GHz channel 42 80MHz (0xe02a)
+	Primary channel: 36
+	HT Capabilities: 40MHz SGI20 SGI40 
+	Supported HT MCS : 0-31
+	Supported VHT MCS:
+		NSS1 Tx: 0-11        Rx: 0-11      
+		NSS2 Tx: 0-11        Rx: 0-11      
+		NSS3 Tx: 0-11        Rx: 0-11      
+		NSS4 Tx: 0-11        Rx: 0-11      
+	Supported HE MCS:
+	    20/40/80 MHz:
+		NSS1 Tx: 0-11        Rx: 0-11
+		NSS2 Tx: 0-11        Rx: 0-11
+		NSS3 Tx: 0-11        Rx: 0-11
+		NSS4 Tx: 0-11        Rx: 0-11
+	    160 MHz:
+		NSS1 Tx: 0-11        Rx: 0-11
+		NSS2 Tx: 0-11        Rx: 0-11
+		NSS3 Tx: 0-11        Rx: 0-11
+		NSS4 Tx: 0-11        Rx: 0-11
+	BSS Color: 0x0		Partial BSS Color: false
+	BSS Color Disabled: false
+	Supported EHT MCS:
+	    20/40/80 MHz:
+		NSS1 Tx: 0-13        Rx: 0-13      
+		NSS2 Tx: 0-13        Rx: 0-13      
+		NSS3 Tx: 0-13        Rx: 0-13      
+		NSS4 Tx: 0-13        Rx: 0-13      
+	    160 MHz:
+		NSS1 Tx: 0-13        Rx: 0-13      
+		NSS2 Tx: 0-13        Rx: 0-13      
+		NSS3 Tx: 0-13        Rx: 0-13      
+		NSS4 Tx: 0-13        Rx: 0-13      
+QBSS Channel Utilization: 0x58 (34 %)
+
+SSID: "BCEO-620-5.40.2"
+Mode: Managed	RSSI: 0 dBm	SNR: 0 dB	noise: -87 dBm	Channel: 10
+BSSID: 90:93:5A:52:94:32	Capability: ESS ShortSlot RRM 
+Beacon Interval: 100 msecs	
+Supported Rates: [ 6(b) 9 12(b) 18 24(b) 36 48 54 ]
+Extended Capabilities: Not_Available
+MLO: MLD Address: 90:93:5A:1F:D8:60
+EHT Capable:
+	Chanspec: 2.4GHz channel 10 20MHz (0x100a)
+	Primary channel: 10
+	HT Capabilities: 40MHz SGI20 SGI40 
+	Supported HT MCS : 0-31
+	Supported VHT MCS:
+		NSS1 Tx: 0-11        Rx: 0-11      
+		NSS2 Tx: 0-11        Rx: 0-11      
+		NSS3 Tx: 0-11        Rx: 0-11      
+		NSS4 Tx: 0-11        Rx: 0-11      
+	Supported HE MCS:
+	    20/40/80 MHz:
+		NSS1 Tx: 0-11        Rx: 0-11
+		NSS2 Tx: 0-11        Rx: 0-11
+		NSS3 Tx: 0-11        Rx: 0-11
+		NSS4 Tx: 0-11        Rx: 0-11
+	BSS Color: 0x0		Partial BSS Color: false
+	BSS Color Disabled: false
+	Supported EHT MCS:
+	    20/40/80 MHz:
+		NSS1 Tx: 0-13        Rx: 0-13      
+		NSS2 Tx: 0-13        Rx: 0-13      
+		NSS3 Tx: 0-13        Rx: 0-13      
+		NSS4 Tx: 0-13        Rx: 0-13      
+QBSS Channel Utilization: 0xb2 (69 %)
+
+--- wl0 6G
+up
+--- wl0.1 6G
+down
+--- wl0.2 6G
+down
+--- wl0.3 6G
+down
+--- wl0.4 6G
+down
+--- wl0.5 6G
+down
+--- wl0.6 6G
+down
+--- wl0.7 6G
+up
+--- wl1 5G
+up
+--- wl1.1 5G
+down
+--- wl1.2 5G
+down
+--- wl1.3 5G
+down
+--- wl1.4 5G
+down
+--- wl1.5 5G
+down
+--- wl1.6 5G
+down
+--- wl1.7 5G
+up
+--- wl2 2G
+up
+--- wl2.1 2G
+down
+--- wl2.2 2G
+down
+--- wl2.3 2G
+down
+--- wl2.4 2G
+down
+--- wl2.5 2G
+down
+--- wl2.6 2G
+down
+--- wl2.7 2G
+down
+
+============================================================
+CLIENT DISTRIBUTION
+============================================================
+--- wl0 6G
+--- wl0.1 6G
+--- wl0.2 6G
+--- wl0.3 6G
+--- wl0.4 6G
+--- wl0.5 6G
+--- wl0.6 6G
+--- wl0.7 6G
+assoclist 32:BD:13:D4:A4:99 
+assoclist A2:1D:13:D4:B3:0F 
+--- wl1 5G
+--- wl1.1 5G
+--- wl1.2 5G
+--- wl1.3 5G
+--- wl1.4 5G
+--- wl1.5 5G
+--- wl1.6 5G
+--- wl1.7 5G
+assoclist A0:2D:13:D4:A4:98 
+assoclist A0:2D:13:D4:B3:0E 
+--- wl2 2G
+--- wl2.1 2G
+--- wl2.2 2G
+--- wl2.3 2G
+--- wl2.4 2G
+--- wl2.5 2G
+--- wl2.6 2G
+--- wl2.7 2G
+
+============================================================
+WIFI7 / MLO HEALTH
+============================================================
+VER: 1
+MLO_ACTIVE:TRUE mlc_wlc_up_bm:7
+MLD0:: nlink 3 MLD 90:93:5A:1F:D8:60 ENAB: 1 ttlm_ns: 3
+Supported Client Modes: STR EMLSR MLMR
+	link0: wl0 bsschg 35 addr 90:93:5A:1F:D8:60 mode AP chanspec 6g101/320-2 (0x7043)
+		Channels:   1  5  9  13  17  21  25  29  33  37  41  45  49  53  57  61  65  69  73  77  81  85  89  93  97  101  105  109  113  117  121  125  129  133  137  141  145  149  153  157  161  165  169  173  177  181  185  189  193  197  201  205  209  213  217  221  225  229  233
+	link1: wl1 bsschg 26 addr 90:93:5A:52:94:33 mode AP chanspec 36/80 (0xe02a)
+		Channels:   36  40  44  48  52  56  60  64  100  104  108  112  116  120  124  128  132  136  140  144  149  153  157  161  165
+	link2: wl2 bsschg 119 addr 90:93:5A:52:94:32 mode AP chanspec 10 (0x100a)
+		Channels:   1  2  3  4  5  6  7  8  9  10  11
+Current channel:	 6g101/320-2
+BSS channel:		 6g101/320-2
+Power/Rate Dump (in 1/2dB): Channel 127
+
+20 in 320MHz:
+
+OFDM            31 31 31 31 31 31 31 31
+OFDM-CDD 1x2    34 34 34 34 34 34 34 34
+OFDM-CDD 1x3    34 34 34 34 34 34 34 34
+OFDM-CDD 1x4    34 34 34 34 34 34 34 34
+1 Nsts 1 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+1 Nsts 2 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+1 Nsts 3 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+1 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+2 Nsts 2 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+2 Nsts 3 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+2 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+3 Nsts 3 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+3 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+4 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+HE 1 Nsts 1 Tx  31 31 31 31 31 31 31 31 31 31 31 31
+HE 1 Nsts 2 Tx  34 34 34 34 34 34 34 34 34 34 34 34
+HE 1 Nsts 3 Tx  34 34 34 34 34 34 34 34 34 34 34 34
+HE 1 Nsts 4 Tx  34 34 34 34 34 34 34 34 34 34 34 34
+HE 2 Nsts 2 Tx  31 31 31 31 31 31 31 31 31 31 31 31
+HE 2 Nsts 3 Tx  31 31 31 31 31 31 31 31 31 31 31 31
+HE 2 Nsts 4 Tx  31 31 31 31 31 31 31 31 31 31 31 31
+HE 3 Nsts 3 Tx  31 31 31 31 31 31 31 31 31 31 31 31
+HE 3 Nsts 4 Tx  31 31 31 31 31 31 31 31 31 31 31 31
+HE 4 Nsts 4 Tx  31 31 31 31 31 31 31 31 31 31 31 31
+EHT Nsts 1 Tx 1  31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31
+EHT Nsts 1 Tx 2  34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34
+EHT Nsts 2 Tx 2  31 31 31 31 31 31 31 31 31 31 31 31 31 31  -  -
+EHT Nsts 1 Tx 3  34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34
+EHT Nsts 2 Tx 3  31 31 31 31 31 31 31 31 31 31 31 31 31 31  -  -
+EHT Nsts 3 Tx 3  31 31 31 31 31 31 31 31 31 31 31 31 31 31  -  -
+EHT Nsts 1 Tx 4  34 34 34 34 34 34 34 34 34 34 34 34 34 34 34 34
+EHT Nsts 2 Tx 4  31 31 31 31 31 31 31 31 31 31 31 31 31 31  -  -
+EHT Nsts 3 Tx 4  31 31 31 31 31 31 31 31 31 31 31 31 31 31  -  -
+EHT Nsts 4 Tx 4  31 31 31 31 31 31 31 31 31 31 31 31 31 31  -  -
+
+40 in 320MHz:
+
+OFDM            22 22 22 22 22 22 22 22
+OFDM-CDD 1x2    27 27 27 27 27 27 27 27
+OFDM-CDD 1x3    27 27 27 27 27 27 27 27
+OFDM-CDD 1x4    27 27 27 27 27 27 27 27
+1 Nsts 1 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+1 Nsts 2 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+1 Nsts 3 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+1 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+2 Nsts 2 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+2 Nsts 3 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+2 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+3 Nsts 3 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+3 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+4 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+HE 1 Nsts 1 Tx  22 22 22 22 22 22 22 22 22 22 22 22
+HE 1 Nsts 2 Tx  27 27 27 27 27 27 27 27 27 27 27 27
+HE 1 Nsts 3 Tx  27 27 27 27 27 27 27 27 27 27 27 27
+HE 1 Nsts 4 Tx  27 27 27 27 27 27 27 27 27 27 27 27
+HE 2 Nsts 2 Tx  22 22 22 22 22 22 22 22 22 22 22 22
+HE 2 Nsts 3 Tx  22 22 22 22 22 22 22 22 22 22 22 22
+HE 2 Nsts 4 Tx  22 22 22 22 22 22 22 22 22 22 22 22
+HE 3 Nsts 3 Tx  22 22 22 22 22 22 22 22 22 22 22 22
+HE 3 Nsts 4 Tx  22 22 22 22 22 22 22 22 22 22 22 22
+HE 4 Nsts 4 Tx  22 22 22 22 22 22 22 22 22 22 22 22
+EHT Nsts 1 Tx 1  22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22
+EHT Nsts 1 Tx 2  27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27
+EHT Nsts 2 Tx 2  22 22 22 22 22 22 22 22 22 22 22 22 22 22  -  -
+EHT Nsts 1 Tx 3  27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27
+EHT Nsts 2 Tx 3  22 22 22 22 22 22 22 22 22 22 22 22 22 22  -  -
+EHT Nsts 3 Tx 3  22 22 22 22 22 22 22 22 22 22 22 22 22 22  -  -
+EHT Nsts 1 Tx 4  27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27
+EHT Nsts 2 Tx 4  22 22 22 22 22 22 22 22 22 22 22 22 22 22  -  -
+EHT Nsts 3 Tx 4  22 22 22 22 22 22 22 22 22 22 22 22 22 22  -  -
+EHT Nsts 4 Tx 4  22 22 22 22 22 22 22 22 22 22 22 22 22 22  -  -
+
+80 in 320MHz:
+
+OFDM            17 17 17 17 17 17 17 17
+OFDM-CDD 1x2    18 18 18 18 18 18 18 18
+OFDM-CDD 1x3    18 18 18 18 18 18 18 18
+OFDM-CDD 1x4    18 18 18 18 18 18 18 18
+1 Nsts 1 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+1 Nsts 2 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+1 Nsts 3 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+1 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+2 Nsts 2 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+2 Nsts 3 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+2 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+3 Nsts 3 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+3 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+4 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+HE 1 Nsts 1 Tx  17 17 17 17 17 17 17 17 17 17 17 17
+HE 1 Nsts 2 Tx  18 18 18 18 18 18 18 18 18 18 18 18
+HE 1 Nsts 3 Tx  18 18 18 18 18 18 18 18 18 18 18 18
+HE 1 Nsts 4 Tx  18 18 18 18 18 18 18 18 18 18 18 18
+HE 2 Nsts 2 Tx  17 17 17 17 17 17 17 17 17 17 17 17
+HE 2 Nsts 3 Tx  17 17 17 17 17 17 17 17 17 17 17 17
+HE 2 Nsts 4 Tx  17 17 17 17 17 17 17 17 17 17 17 17
+HE 3 Nsts 3 Tx  17 17 17 17 17 17 17 17 17 17 17 17
+HE 3 Nsts 4 Tx  17 17 17 17 17 17 17 17 17 17 17 17
+HE 4 Nsts 4 Tx  17 17 17 17 17 17 17 17 17 17 17 17
+EHT Nsts 1 Tx 1  17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17
+EHT Nsts 1 Tx 2  18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18
+EHT Nsts 2 Tx 2  17 17 17 17 17 17 17 17 17 17 17 17 17 17  -  -
+EHT Nsts 1 Tx 3  18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18
+EHT Nsts 2 Tx 3  17 17 17 17 17 17 17 17 17 17 17 17 17 17  -  -
+EHT Nsts 3 Tx 3  17 17 17 17 17 17 17 17 17 17 17 17 17 17  -  -
+EHT Nsts 1 Tx 4  18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18
+EHT Nsts 2 Tx 4  17 17 17 17 17 17 17 17 17 17 17 17 17 17  -  -
+EHT Nsts 3 Tx 4  17 17 17 17 17 17 17 17 17 17 17 17 17 17  -  -
+EHT Nsts 4 Tx 4  17 17 17 17 17 17 17 17 17 17 17 17 17 17  -  -
+
+160 in 320MHz:
+
+OFDM            12 12 12 12 12 12 12 12
+OFDM-CDD 1x2    12 12 12 12 12 12 12 12
+OFDM-CDD 1x3    12 12 12 12 12 12 12 12
+OFDM-CDD 1x4    12 12 12 12 12 12 12 12
+1 Nsts 1 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+1 Nsts 2 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+1 Nsts 3 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+1 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+2 Nsts 2 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+2 Nsts 3 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+2 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+3 Nsts 3 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+3 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+4 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+HE 1 Nsts 1 Tx  12 12 12 12 12 12 12 12 12 12 12 12
+HE 1 Nsts 2 Tx  12 12 12 12 12 12 12 12 12 12 12 12
+HE 1 Nsts 3 Tx  12 12 12 12 12 12 12 12 12 12 12 12
+HE 1 Nsts 4 Tx  12 12 12 12 12 12 12 12 12 12 12 12
+HE 2 Nsts 2 Tx  12 12 12 12 12 12 12 12 12 12 12 12
+HE 2 Nsts 3 Tx  12 12 12 12 12 12 12 12 12 12 12 12
+HE 2 Nsts 4 Tx  12 12 12 12 12 12 12 12 12 12 12 12
+HE 3 Nsts 3 Tx  12 12 12 12 12 12 12 12 12 12 12 12
+HE 3 Nsts 4 Tx  12 12 12 12 12 12 12 12 12 12 12 12
+HE 4 Nsts 4 Tx  12 12 12 12 12 12 12 12 12 12 12 12
+EHT Nsts 1 Tx 1  12 12 12 12 12 12 12 12 12 12 12 12 13 13 12 12
+EHT Nsts 1 Tx 2  12 12 12 12 12 12 12 12 12 12 12 12 13 13 12 12
+EHT Nsts 2 Tx 2  12 12 12 12 12 12 12 12 12 12 12 12 13 13  -  -
+EHT Nsts 1 Tx 3  12 12 12 12 12 12 12 12 12 12 12 12 13 13 12 12
+EHT Nsts 2 Tx 3  12 12 12 12 12 12 12 12 12 12 12 12 13 13  -  -
+EHT Nsts 3 Tx 3  12 12 12 12 12 12 12 12 12 12 12 12 13 13  -  -
+EHT Nsts 1 Tx 4  12 12 12 12 12 12 12 12 12 12 12 12 13 13 12 12
+EHT Nsts 2 Tx 4  12 12 12 12 12 12 12 12 12 12 12 12 13 13  -  -
+EHT Nsts 3 Tx 4  12 12 12 12 12 12 12 12 12 12 12 12 13 13  -  -
+EHT Nsts 4 Tx 4  12 12 12 12 12 12 12 12 12 12 12 12 13 13  -  -
+
+320MHz:
+
+OFDM             6  6  6  6  6  6  6  6
+OFDM-CDD 1x2     5  5  5  5  5  5  5  6
+OFDM-CDD 1x3     5  5  5  5  5  5  5  6
+OFDM-CDD 1x4     5  5  5  5  5  5  5  6
+1 Nsts 1 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+1 Nsts 2 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+1 Nsts 3 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+1 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+2 Nsts 2 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+2 Nsts 3 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+2 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+3 Nsts 3 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+3 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+4 Nsts 4 Tx      -  -  -  -  -  -  -  -  -  -  -  -
+HE 1 Nsts 1 Tx   6  6  6  6  6  6  6  7  8  8  9  9
+HE 1 Nsts 2 Tx   5  5  5  5  5  5  6  7  8  8  9  9
+HE 1 Nsts 3 Tx   5  5  5  5  5  5  6  7  8  8  9  9
+HE 1 Nsts 4 Tx   5  5  5  5  5  5  6  7  8  8  9  9
+HE 2 Nsts 2 Tx   6  6  6  6  6  6  6  7  8  8  9  9
+HE 2 Nsts 3 Tx   6  6  6  6  6  6  6  7  8  8  9  9
+HE 2 Nsts 4 Tx   6  6  6  6  6  6  6  7  8  8  9  9
+HE 3 Nsts 3 Tx   6  6  6  6  6  6  6  7  8  8  9  9
+HE 3 Nsts 4 Tx   6  6  6  6  6  6  6  7  8  8  9  9
+HE 4 Nsts 4 Tx   6  6  6  6  6  6  6  7  8  8  9  9
+EHT Nsts 1 Tx 1   6  6  6  6  6  6  6  7  8  8  9  9 13 13  6  6
+EHT Nsts 1 Tx 2   5  5  5  5  5  5  6  7  8  8  9  9 13 13  5  5
+EHT Nsts 2 Tx 2   6  6  6  6  6  6  6  7  8  8  9  9 13 13  -  -
+EHT Nsts 1 Tx 3   5  5  5  5  5  5  6  7  8  8  9  9 13 13  5  5
+EHT Nsts 2 Tx 3   6  6  6  6  6  6  6  7  8  8  9  9 13 13  -  -
+EHT Nsts 3 Tx 3   6  6  6  6  6  6  6  7  8  8  9  9 13 13  -  -
+EHT Nsts 1 Tx 4   5  5  5  5  5  5  6  7  8  8  9  9 13 13  5  5
+EHT Nsts 2 Tx 4   6  6  6  6  6  6  6  7  8  8  9  9 13 13  -  -
+EHT Nsts 3 Tx 4   6  6  6  6  6  6  6  7  8  8  9  9 13 13  -  -
+EHT Nsts 4 Tx 4   6  6  6  6  6  6  6  7  8  8  9  9 13 13  -  -
+
+1 (0x1)
+
+============================================================
+MESH / BACKHAUL HEALTH
+============================================================
+map_onboarded_first_time=1
+map_onboarded=1
+map_agent_active_bh_type=wire
+multiap_mode=3
+wl2_band_flag=1
+wl0_band_flag=6
+wl1_band_flag=8
+wl0.7_ssid=ATTaUBV7Pi_Backhaul
+map_bh_ssid=ATTaUBV7Pi_Backhaul
+map_bh_passphrase=unt#gj2xt2+k
+wl1.7_ssid=ATTaUBV7Pi_Backhaul
+wbd_ifnames=wl0 wl0.7 wl1 wl1.7 wl2
+wl0: 0x1:  Fronthaul-BSS
+wl0.1: 0x1:  Fronthaul-BSS
+wl0.2: 0x1:  Fronthaul-BSS
+wl0.3: 0x1:  Fronthaul-BSS
+wl0.4: 0x1:  Fronthaul-BSS
+wl0.5: 0x1:  Fronthaul-BSS
+wl0.6: 0x1:  Fronthaul-BSS
+wl0.7: 0x2:  Backhaul-BSS
+  Station Address   PHY Mbps  Data Mbps    Air Use   Data Use    Retries    bw   mcs   Nss   ofdma mu-mimo 
+32:BD:13:D4:A4:99     3621.5        1.7       6.2%       2.5%      90.4% 320.0     7     2   38.3%    0.0% 
+A2:1D:13:D4:B3:0F     7055.3       65.2     126.5%      97.5%      17.5% 320.0   8.9   3.7    6.0%    0.0% 
+        (overall)          -       66.8     159.8%         -         -
+wl1: 0x1:  Fronthaul-BSS
+wl1.1: 0x1:  Fronthaul-BSS
+wl1.2: 0x1:  Fronthaul-BSS
+wl1.3: 0x1:  Fronthaul-BSS
+wl1.4: 0x1:  Fronthaul-BSS
+wl1.5: 0x1:  Fronthaul-BSS
+wl1.6: 0x1:  Fronthaul-BSS
+wl1.7: 0x2:  Backhaul-BSS
+  Station Address   PHY Mbps  Data Mbps    Air Use   Data Use    Retries    bw   mcs   Nss   ofdma mu-mimo 
+A0:2D:13:D4:A4:98     1929.0        1.4       9.0%      36.6%      62.6%  77.4   9.4   3.8   19.2%    0.0% 
+A0:2D:13:D4:B3:0E     1746.7        2.5       9.5%      63.4%      54.5%  77.7   9.3   3.5   10.3%    0.0% 
+        (overall)          -        3.9      14.4%         -         -
+wl2: 0x1:  Fronthaul-BSS
+wl2.1: 0x1:  Fronthaul-BSS
+wl2.2: 0x1:  Fronthaul-BSS
+wl2.3: 0x1:  Fronthaul-BSS
+wl2.4: 0x1:  Fronthaul-BSS
+wl2.5: 0x1:  Fronthaul-BSS
+wl2.6: 0x1:  Fronthaul-BSS
+wl2.7: 0x1:  Fronthaul-BSS
+
+============================================================
+ACS / CLOUD CHANNEL HEALTH
+============================================================
+Ticks(s)  Timestamp(s)  ACS-Trigger  ChanSpec    BG-Noise  CCA-Count  Idle
+       0    1785176170         INIT  6g101/320-2         0          0  0
+ACSD Candidate Scores for next Channel Switch:
+   Channel (Chspec) Use DFS      BSS     busy  interf.  itf_adj      fcs  txpower  bgnoise    TOTAL      CNS      ADJ     TXOP  DFS/Age    CHIDX     RBSS    RTXOP     CHWT 
+6g1/320-1  (0x7000)   -   Invalid:EXCLUDE NON_PSC
+6g5/320-1  (0x7040)   -       120        0        5        6        0      700        0     1381     -100       10      550        0        0        0        0        0 
+6g9/320-1  (0x7080)   -   Invalid:EXCLUDE NON_PSC
+6g13/320-1 (0x70c0)   -   Invalid:EXCLUDE NON_PSC
+6g17/320-1 (0x7100)   -   Invalid:EXCLUDE NON_PSC
+6g21/320-1 (0x7140)   -       120        0        5        8        0      700        0     1393     -100       10      550        0       10        0        0        0 
+6g25/320-1 (0x7180)   -   Invalid:EXCLUDE NON_PSC
+6g29/320-1 (0x71c0)   -   Invalid:EXCLUDE NON_PSC
+6g33/320-1 (0x7200)   -   Invalid:EXCLUDE NON_PSC
+6g37/320-1 (0x7240)   -       120        0        5       10        0      700        0     1405     -100       10      550        0       20        0        0        0 
+6g41/320-1 (0x7280)   -   Invalid:EXCLUDE NON_PSC
+6g45/320-1 (0x72c0)   -   Invalid:EXCLUDE NON_PSC
+6g49/320-1 (0x7300)   -   Invalid:EXCLUDE NON_PSC
+6g53/320-1 (0x7340)   -       120        0        5       20        0      700        0     1425     -100       10      550        0       30        0        0        0 
+6g57/320-1 (0x7380)   -   Invalid:EXCLUDE NON_PSC
+6g61/320-1 (0x73c0)   -   Invalid:EXCLUDE NON_PSC
+6g33/320-2 (0x7001)   -   Invalid:EXCLUDE NON_PSC
+6g37/320-2 (0x7041)   -       110        0        6       10        0      700        0     1396     -100       22      550        0       20        0        0        0 
+6g41/320-2 (0x7081)   -   Invalid:EXCLUDE NON_PSC
+6g45/320-2 (0x70c1)   -   Invalid:EXCLUDE NON_PSC
+6g49/320-2 (0x7101)   -   Invalid:EXCLUDE NON_PSC
+6g53/320-2 (0x7141)   -       110        0        6       20        0      700        0     1416     -100       22      550        0       30        0        0        0 
+6g57/320-2 (0x7181)   -   Invalid:EXCLUDE NON_PSC
+6g61/320-2 (0x71c1)   -   Invalid:EXCLUDE NON_PSC
+6g65/320-2 (0x7201)   -   Invalid:EXCLUDE NON_PSC
+6g69/320-2 (0x7241)   -       110        0        6       32        0      700        0     1438     -100       22      550        0       40        0        0        0 
+6g73/320-2 (0x7281)   -   Invalid:EXCLUDE NON_PSC
+6g77/320-2 (0x72c1)   -   Invalid:EXCLUDE NON_PSC
+6g81/320-2 (0x7301)   -   Invalid:EXCLUDE NON_PSC
+6g85/320-2 (0x7341)   -       110        0        6       21        0      700        0     1437     -100       22      550        0       50        0        0        0 
+6g89/320-2 (0x7381)   -   Invalid:EXCLUDE NON_PSC
+6g93/320-2 (0x73c1)   -   Invalid:EXCLUDE NON_PSC
+6g65/320-1 (0x7002)   -   Invalid:EXCLUDE NON_PSC
+6g69/320-1 (0x7042)   -       100        0        7       32        0      670        0     1399     -100       24      550        0       40        0        0        0 
+6g73/320-1 (0x7082)   -   Invalid:EXCLUDE NON_PSC
+6g77/320-1 (0x70c2)   -   Invalid:EXCLUDE NON_PSC
+6g81/320-1 (0x7102)   -   Invalid:EXCLUDE NON_PSC
+6g85/320-1 (0x7142)   -       100        0        7       21        0      670        0     1398     -100       24      550        0       50        0        0        0 
+6g89/320-1 (0x7182)   -   Invalid:EXCLUDE NON_PSC
+6g93/320-1 (0x71c2)   -   Invalid:EXCLUDE NON_PSC
+6g97/320-1 (0x7202)   -   Invalid:EXCLUDE NON_PSC
+6g101/320-1 (0x7242)   -       100        0        7       28        0      670        0     1415     -100       24      550        0       60        0        0        0 
+6g105/320-1 (0x7282)   -   Invalid:EXCLUDE NON_PSC
+6g109/320-1 (0x72c2)   -   Invalid:EXCLUDE NON_PSC
+6g113/320-1 (0x7302)   -   Invalid:EXCLUDE NON_PSC
+6g117/320-1 (0x7342)   -       100        0        7       39        0      670        0     1436     -100       24      550        0       70        0        0        0 
+6g121/320-1 (0x7382)   -   Invalid:EXCLUDE NON_PSC
+6g125/320-1 (0x73c2)   -   Invalid:EXCLUDE NON_PSC
+6g97/320-2 (0x7003)   -   Invalid:EXCLUDE NON_PSC
+6g101/320-2 (0x7043)   -       110        0        8       28        0      590        0     1346     -100       24      550        0       60        0        0        0 
+6g105/320-2 (0x7083)   -   Invalid:EXCLUDE NON_PSC
+6g109/320-2 (0x70c3)   -   Invalid:EXCLUDE NON_PSC
+6g113/320-2 (0x7103)   -   Invalid:EXCLUDE NON_PSC
+6g117/320-2 (0x7143)   -       110        0        8       39        0      590        0     1367     -100       24      550        0       70        0        0        0 
+6g121/320-2 (0x7183)   -   Invalid:EXCLUDE NON_PSC
+6g125/320-2 (0x71c3)   -   Invalid:EXCLUDE NON_PSC
+6g129/320-2 (0x7203)   -   Invalid:EXCLUDE NON_PSC
+6g133/320-2 (0x7243)   -       110        0        8       22        0      590        0     1360     -100       24      550        0       80        0        0        0 
+6g137/320-2 (0x7283)   -   Invalid:EXCLUDE NON_PSC
+6g141/320-2 (0x72c3)   -   Invalid:EXCLUDE NON_PSC
+6g145/320-2 (0x7303)   -   Invalid:EXCLUDE NON_PSC
+6g149/320-2 (0x7343)   -       110        0        8       21        0      590        0     1369     -100       24      550        0       90        0        0        0 
+6g153/320-2 (0x7383)   -   Invalid:EXCLUDE NON_PSC
+6g157/320-2 (0x73c3)   -   Invalid:EXCLUDE NON_PSC
+6g129/320-1 (0x7004)   -   Invalid:EXCLUDE NON_PSC
+6g133/320-1 (0x7044)   -       130        0       10       22        0      540        0     1332     -101       20      550        0       80        0        0        0 
+6g137/320-1 (0x7084)   -   Invalid:EXCLUDE NON_PSC
+6g141/320-1 (0x70c4)   -   Invalid:EXCLUDE NON_PSC
+6g145/320-1 (0x7104)   -   Invalid:EXCLUDE NON_PSC
+6g149/320-1 (0x7144)   -       130        0       10       21        0      540        0     1341     -101       20      550        0       90        0        0        0 
+6g153/320-1 (0x7184)   -   Invalid:EXCLUDE NON_PSC
+6g157/320-1 (0x71c4)   -   Invalid:EXCLUDE NON_PSC
+6g161/320-1 (0x7204)   -   Invalid:EXCLUDE NON_PSC
+6g165/320-1 (0x7244)   -       130        0       10       38        0      540        0     1368     -101       20      550        0      100        0        0        0 
+6g169/320-1 (0x7284)   -   Invalid:EXCLUDE NON_PSC
+6g173/320-1 (0x72c4)   -   Invalid:EXCLUDE NON_PSC
+6g177/320-1 (0x7304)   -   Invalid:EXCLUDE NON_PSC
+6g181/320-1 (0x7344)   -       130        0       10       43        0      540        0     1383     -101       20      550        0      110        0        0        0 
+6g185/320-1 (0x7384)   -   Invalid:EXCLUDE NON_PSC
+6g189/320-1 (0x73c4)   -   Invalid:EXCLUDE NON_PSC
+6g161/320-2 (0x7005)   -   Invalid:EXCLUDE NON_PSC
+6g165/320-2 (0x7045)   -       120        0       12       38        0      590        0     1410      -98       12      550        0      100        0        0        0 
+6g169/320-2 (0x7085)   -   Invalid:EXCLUDE NON_PSC
+6g173/320-2 (0x70c5)   -   Invalid:EXCLUDE NON_PSC
+6g177/320-2 (0x7105)   -   Invalid:EXCLUDE NON_PSC
+6g181/320-2 (0x7145)   -       120        0       12       43        0      590        0     1425      -98       12      550        0      110        0        0        0 
+6g185/320-2 (0x7185)   -   Invalid:EXCLUDE NON_PSC
+6g189/320-2 (0x71c5)   -   Invalid:EXCLUDE NON_PSC
+6g193/320-2 (0x7205)   -   Invalid:EXCLUDE NON_PSC
+6g197/320-2 (0x7245)   -       120        0       12       15        0      590        0     1407      -98       12      550        0      120        0        0        0 
+6g201/320-2 (0x7285)   -   Invalid:EXCLUDE NON_PSC
+6g205/320-2 (0x72c5)   -   Invalid:EXCLUDE NON_PSC
+6g209/320-2 (0x7305)   -   Invalid:EXCLUDE NON_PSC
+6g213/320-2 (0x7345)   -       120        0       12       17        0      590        0     1419      -98       12      550        0      130        0        0        0 
+6g217/320-2 (0x7385)   -   Invalid:EXCLUDE NON_PSC
+6g221/320-2 (0x73c5)   -   Invalid:EXCLUDE NON_PSC
+version: 4 
+chspec       tx      inbss   obss    nocat   nopkt   doze    txop    goodtx  badtx   glitch  badplcp knoise  idle    busy    timestamps
+6g101/320-2  2       4       5       2       4       0       86      1       1       37      3       -85     87      15      862475448 
+Ticks(s)  Timestamp(s)  ACS-Trigger  ChanSpec    BG-Noise  CCA-Count  Idle
+       0    1785176168         INIT  36/80              0          0  0
+   26259    1785202627         ZDFS  52/80            -92          3  81
+   26335    1785202707       NONACS  48/80            -93         10  64
+   74641    1785251541         TXOP  52/80            -93         11  66
+  172247    1785350143       NONACS  36/80            -94         10  76
+  256441    1785435270         TXOP  100/80           -92          9  53
+  256450    1785435281       NONACS  161/80           -92          9  53
+  278259    1785457309         ZDFS  132/80           -92          7  32
+  291314    1785470487        IOCTL  157/80           -92          2  76
+  291314    1785470493        IOCTL  36/80            -92          2  76
+  322861    1785502365         ZDFS  136/80           -92          4  71
+  322873    1785502380       NONACS  157/80           -92          4  75
+  345063    1785524783         ZDFS  64/80            -92          6  35
+  345167    1785524891       NONACS  157/80           -92         10  65
+  367061    1785547001         ZDFS  136/80           -92          6  39
+  367080    1785547023       NONACS  157/80           -92         10  29
+  393461    1785573674         ZDFS  64/80            -92          5  49
+  393709    1785573930       NONACS  157/80           -92          2  72
+  416061    1785596499         ZDFS  136/80           -92          7  37
+  416078    1785596521       NONACS  157/80           -92          9  30
+  443863    1785624598         ZDFS  64/80            -91          8  21
+  443893    1785624633       NONACS  157/80           -93         10  67
+  467258    1785648231         ZDFS  136/80           -92          7  40
+  467272    1785648249       NONACS  157/80           -92          8  30
+  499658    1785680976         ZDFS  64/80            -92          7  37
+  499891    1785681217        IOCTL  157/80           -93         16  61
+  735761    1785919880         TXOP  136/80           -92          5  35
+  735900    1785920024       NONACS  157/80           -92          5  44
+  770665    1785955169         ZDFS  64/80            -92          6  38
+  771054    1785955567       NONACS  157/80           -92          7  62
+  793059    1785977798         ZDFS  136/80           -91          7  31
+  793288    1785978034       NONACS  157/80           -92          1  81
+  836261    1786021486         ZDFS  136/80           -92          6  40
+  836780    1786022012       NONACS  36/80            -92          6  57
+ACSD Candidate Scores for next Channel Switch:
+   Channel (Chspec) Use DFS      BSS     busy  interf.  itf_adj      fcs  txpower  bgnoise    TOTAL      CNS      ADJ     TXOP  DFS/Age    CHIDX     RBSS    RTXOP     CHWT 
+36/80      (0xe02a)   -   Invalid:NON_DFS 
+40/80      (0xe12a)   -   Invalid:NON_DFS 
+44/80      (0xe22a)   -   Invalid:NON_DFS 
+48/80      (0xe32a)   -   Invalid:NON_DFS 
+52/80      (0xe03a)  dfs  Invalid:EXCLUDE 
+56/80      (0xe13a)  dfs      430        0       15       27        0      180        3     1305      -71       60      650        0        0        0        0        0 
+60/80      (0xe23a)  dfs      430        0       15       18        0      180        3     1296      -71       60      650        0        0        0        0        0 
+64/80      (0xe33a)  dfs      430        0       15       18        0      180        3     1296      -71       60      650        0        0        0        0        0 
+100/80     (0xe06a)  dfs      400        0       14       18        0      180        0      962     -101        4      350        0        0        0        0        0 
+104/80     (0xe16a)  dfs      400        0       14       20        0      180        0      964     -101        4      350        0        0        0        0        0 
+108/80     (0xe26a)  dfs      400        0       14       21        0      180        0      965     -101        4      350        0        0        0        0        0 
+112/80     (0xe36a)  dfs      400        0       14       22        0      180        0      966     -101        4      350        0        0        0        0        0 
+116/80     (0xe07a)  dfs  Invalid:EXCLUDE 
+120/80     (0xe17a)  dfs  Invalid:EXCLUDE 
+124/80     (0xe27a)  dfs  Invalid:EXCLUDE 
+128/80     (0xe37a)  dfs  Invalid:EXCLUDE 
+132/80     (0xe08a)  dfs  Invalid:EXCLUDE 
+136/80     (0xe18a)  dfs      270        0        4       18        0      180        0      522     -100        4       50        0        0        0        0        0 
+140/80     (0xe28a)  dfs  Invalid:EXCLUDE 
+144/80     (0xe38a)  dfs  Invalid:EXCLUDE 
+149/80     (0xe09b)   -   Invalid:NON_DFS 
+153/80     (0xe19b)   -   Invalid:NON_DFS 
+157/80     (0xe29b)   -   Invalid:NON_DFS 
+161/80     (0xe39b)   -   Invalid:EXCLUDE NON_DFS 
+version: 4 
+chspec       tx      inbss   obss    nocat   nopkt   doze    txop    goodtx  badtx   glitch  badplcp knoise  idle    busy    timestamps
+36/80        2       1       24      4       6       0       66      1       1       144     1       -92     68      34      862470577 
+Ticks(s)  Timestamp(s)  ACS-Trigger  ChanSpec    BG-Noise  CCA-Count  Idle
+       0    1785176166         INIT  10                 0          0  0
+      18    1785176190        IOCTL  11                 0          0  0
+      18    1785176192        IOCTL  6                  0          0  0
+   22709    1785199030        TIMER  6                -89         34  21
+   52087    1785228720        IOCTL  10               -86         46  23
+   76981    1785253909         TXOP  9                -87         78  15
+   94643    1785271736        IOCTL  10               -87         78  19
+  125341    1785302755         TXOP  8                -88         72  19
+  148932    1785326588        TIMER  5                -88         71  19
+  171632    1785349520        TIMER  10               -87         82  8
+  193441    1785371532         TXOP  7                -89         56  35
+  217033    1785395399        TIMER  1                -88         65  24
+  240821    1785419468         TXOP  3                -90         46  15
+  265846    1785444774        IOCTL  7                -92         80  9
+  286790    1785465922        IOCTL  4                -88         62  22
+  308392    1785487731        TIMER  11               -93         75  14
+  330201    1785509776         TXOP  2                -87         38  9
+  352021    1785531811         TXOP  5                -91         54  27
+  373623    1785553628        TIMER  1                -88         63  17
+  395441    1785575681         TXOP  3                -90         38  13
+  421035    1785601528        TIMER  11               -88         83  10
+  442841    1785623564         TXOP  5                -86         25  2
+  464443    1785645375        TIMER  1                -88         71  17
+  489154    1785670342        TIMER  3                -90         26  21
+  512961    1785694415         TXOP  11               -88         69  16
+  534563    1785716252        TIMER  6                -89         29  15
+  559272    1785741253        TIMER  10               -88         50  17
+  581081    1785763321         TXOP  2                -86         68  22
+  603788    1785786298        TIMER  1                -93         65  21
+  626489    1785809268        TIMER  10               -89         44  15
+  650453    1785833514        IOCTL  6                -88         66  27
+  673161    1785856497         TXOP  2                -88         60  14
+  724531    1785908515        TIMER  6                -89         71  14
+  747233    1785931467        TIMER  9                -88         40  20
+  771772    1785956292        TIMER  8                -86         82  7
+  797581    1785982377         TXOP  2                -90         71  14
+  820281    1786005309         TXOP  10               -89         69  21
+ACSD Candidate Scores for next Channel Switch:
+   Channel (Chspec) Use DFS      BSS     busy  interf.  itf_adj      fcs  txpower  bgnoise    TOTAL      CNS      ADJ     TXOP  DFS/Age    CHIDX     RBSS    RTXOP     CHWT 
+1          (0x1001)   -   Invalid:EXCLUDE 
+2          (0x1002)   -        20        6       94        0        0        0       10      880      -61        0      750        0        0        0        0        0 
+3          (0x1003)   -   Invalid:EXCLUDE 
+4          (0x1004)   -   Invalid:EXCLUDE 
+5          (0x1005)   -   Invalid:EXCLUDE 
+6          (0x1006)   -   Invalid:EXCLUDE 
+7          (0x1007)   -   Invalid:EXCLUDE 
+8          (0x1008)   -   Invalid:EXCLUDE 
+9          (0x1009)   -        20        4       88        0        0        0       10      872      -67        0      750        0        0        0        0        0 
+10         (0x100a)   -        70       12       72        0        0        0        7      811      -88        0      650        0        0        0        0        0 
+11         (0x100b)   -   Invalid:EXCLUDE 
+version: 4 
+chspec       tx      inbss   obss    nocat   nopkt   doze    txop    goodtx  badtx   glitch  badplcp knoise  idle    busy    timestamps
+10           1       0       9       2       67      0       23      0       0       6043    24      -87     24      78      862468109 
+GLOBAL
+    config:
+      align_multiap        : true
+      align_multiap_backoff: 86400s
+
+  BAND[2G]
+    ctl_channels        : [1,2,3,4,5,6,7,8,9,10,11]
+    align_ctl_channels  : [1,2,3,4,5,6,7,8,9,10,11]
+    lpr_channels        : []
+    align_lpr_channels  : []
+    align_backoff       : 0s
+
+  BAND[5G]
+    ctl_channels        : [36,40,44,48,52,56,60,64,100,104,108,112,116,120,124,128,132,136,140,144,149,153,157,161,165]
+    align_ctl_channels  : [36,40,44,48,52,56,60,64,100,104,108,112,116,120,124,128,132,136,140,144,149,153,157,161,165]
+    lpr_channels        : []
+    align_lpr_channels  : []
+    radar_channels      : []
+    align_radar_channels: []
+    align_backoff       : 0s
+
+  BAND[6G]
+    ctl_channels        : [1,5,9,13,17,21,25,29,33,37,41,45,49,53,57,61,65,69,73,77,81,85,89,93,97,101,105,109,113,117,121,125,129,133,137,141,145,149,153,157,161,165,169,173,177,181,185,189,193,197,201,205,209,213,217,221,225,229]
+    align_ctl_channels  : [1,5,9,13,17,21,25,29,33,37,41,45,49,53,57,61,65,69,73,77,81,85,89,93,97,101,105,109,113,117,121,125,129,133,137,141,145,149,153,157,161,165,169,173,177,181,185,189,193,197,201,205,209,213,217,221,225,229]
+    lpr_channels        : []
+    align_lpr_channels  : []
+    align_backoff       : 0s
+
+
+ALE[92:93:5a:1f:d8:67]
+  RADIO[90:93:5a:52:94:33][5GHz low_high]
+    config:
+      cloud_mgmt_enable: true
+      acs_enable       : true
+      acs_channels     : [36,40,44,48,56,60,64,100,104,108,112,136,149,153,157]
+      channel          : 0
+      bandwidth        : 80
+      backhaul         : true
+    state:
+      channel          : 36
+      bandwidth        : 80
+      op_class         : 128
+      cap_ctl_channels : [36,40,44,48,52,56,60,64,100,104,108,112,116,120,124,128,132,136,140,144,149,153,157,161,165]
+      ctl_channels     : [36,40,44,48,52,56,60,64,100,104,108,112,116,120,124,128,132,136,140,144,149,153,157,161,165]
+      pref_channels    : [36,40,44,48,56,60,64,100,104,108,112,136,149,153,157]
+      def_pref_channels: [36,40,44,48,52,56,60,64,100,104,108,112,132,136,149,153,157,161]
+      low_pref_channels: []
+      clear_channels   : [36,40,44,48,149,153,157,161,165]
+      radar_channels   : []
+      cac_channels     : []
+      eu_weatherband   : [false]
+      agent_cap:
+        op_class[115] pref[0] reason[0] channels[]
+        op_class[118] pref[0] reason[0] channels[]
+        op_class[121] pref[0] reason[0] channels[]
+        op_class[124] pref[0] reason[0] channels[]
+        op_class[125] pref[0] reason[0] channels[169,173,177]
+        op_class[116] pref[0] reason[0] channels[]
+        op_class[119] pref[0] reason[0] channels[]
+        op_class[122] pref[0] reason[0] channels[]
+        op_class[126] pref[0] reason[0] channels[165,173]
+        op_class[117] pref[0] reason[0] channels[]
+        op_class[120] pref[0] reason[0] channels[]
+        op_class[123] pref[0] reason[0] channels[]
+        op_class[127] pref[0] reason[0] channels[169,177]
+        op_class[128] pref[0] reason[0] channels[171]
+      agent_pref:
+      ctrl_pref:
+        op_class[118] pref[0] reason[0] channels[52]
+        op_class[121] pref[0] reason[0] channels[116,120,124,128,132,140,144]
+        op_class[124] pref[0] reason[0] channels[161]
+        op_class[125] pref[0] reason[0] channels[161,165]
+        op_class[119] pref[0] reason[0] channels[52]
+        op_class[122] pref[0] reason[0] channels[116,124,132,140]
+        op_class[123] pref[0] reason[0] channels[120,128,144]
+        op_class[127] pref[0] reason[0] channels[161]
+        op_class[128] pref[0] reason[0] channels[122]
+      merged_pref:
+        op_class[118] pref[0] reason[0] channels[52]
+        op_class[119] pref[0] reason[0] channels[52]
+        op_class[121] pref[0] reason[0] channels[116,120,124,128,132,140,144]
+        op_class[122] pref[0] reason[0] channels[116,124,132,140]
+        op_class[123] pref[0] reason[0] channels[120,128,144]
+        op_class[124] pref[0] reason[0] channels[161]
+        op_class[125] pref[0] reason[0] channels[161,165]
+        op_class[127] pref[0] reason[0] channels[161]
+        op_class[128] pref[0] reason[0] channels[122]
+
+  RADIO[90:93:5a:1f:d8:60][6GHz]
+    config:
+      cloud_mgmt_enable: true
+      acs_enable       : true
+      acs_channels     : []
+      channel          : 0
+      bandwidth        : 320
+      backhaul         : true
+    state:
+      channel          : 101
+      bandwidth        : 320
+      op_class         : 137
+      cap_ctl_channels : [1,5,9,13,17,21,25,29,33,37,41,45,49,53,57,61,65,69,73,77,81,85,89,93,97,101,105,109,113,117,121,125,129,133,137,141,145,149,153,157,161,165,169,173,177,181,185,189,193,197,201,205,209,213,217,221,225,229,233]
+      ctl_channels     : [1,5,9,13,17,21,25,29,33,37,41,45,49,53,57,61,65,69,73,77,81,85,89,93,97,101,105,109,113,117,121,125,129,133,137,141,145,149,153,157,161,165,169,173,177,181,185,189,193,197,201,205,209,213,217,221,225,229,233]
+      pref_channels    : [5,21,37,53,69,85,101,117,133,149,165,181,197,213,229]
+      def_pref_channels: [5,21,37,53,69,85,101,117,133,149,165,181,197,213,229]
+      low_pref_channels: []
+      eu_weatherband   : [false]
+      agent_cap:
+        op_class[131] pref[0] reason[0] channels[]
+        op_class[132] pref[0] reason[0] channels[]
+        op_class[133] pref[0] reason[0] channels[]
+        op_class[134] pref[0] reason[0] channels[]
+        op_class[137] pref[0] reason[0] channels[]
+      agent_pref:
+      ctrl_pref:
+        op_class[131] pref[0] reason[0] channels[1,9,13,17,25,29,33,41,45,49,57,61,65,73,77,81,89,93,97,105,109,113,121,125,129,137,141,145,153,157,161,169,173,177,185,189,193,201,205,209,217,221,225,233]
+        op_class[132] pref[0] reason[0] channels[11,27,43,59,75,91,107,123,139,155,171,187,203,219]
+      merged_pref:
+        op_class[131] pref[0] reason[0] channels[1,9,13,17,25,29,33,41,45,49,57,61,65,73,77,81,89,93,97,105,109,113,121,125,129,137,141,145,153,157,161,169,173,177,185,189,193,201,205,209,217,221,225,233]
+        op_class[132] pref[0] reason[0] channels[11,27,43,59,75,91,107,123,139,155,171,187,203,219]
+
+  RADIO[90:93:5a:52:94:32][2.4GHz]
+    config:
+      cloud_mgmt_enable: true
+      acs_enable       : true
+      acs_channels     : [2,9,10]
+      channel          : 0
+      bandwidth        : 20
+      backhaul         : false
+    state:
+      channel          : 10
+      bandwidth        : 20
+      op_class         : 81
+      cap_ctl_channels : [1,2,3,4,5,6,7,8,9,10,11]
+      ctl_channels     : [1,2,3,4,5,6,7,8,9,10,11]
+      pref_channels    : [2,9,10]
+      def_pref_channels: [1,6,11]
+      low_pref_channels: []
+      eu_weatherband   : [false]
+      agent_cap:
+        op_class[81] pref[0] reason[0] channels[12,13]
+      agent_pref:
+      ctrl_pref:
+        op_class[81] pref[0] reason[0] channels[1,3,4,5,6,7,8,11]
+      merged_pref:
+        op_class[81] pref[0] reason[0] channels[1,3,4,5,6,7,8,11]
+
+
+ALE[a2:2d:13:d4:b3:0b]
+  RADIO[a2:1d:13:d4:b3:0f][6GHz]
+    config:
+      cloud_mgmt_enable: true
+      acs_enable       : true
+      acs_channels     : []
+      channel          : 0
+      bandwidth        : 0
+      backhaul         : true
+    state:
+      channel          : 101
+      bandwidth        : 320
+      op_class         : 137
+      cap_ctl_channels : [1,5,9,13,17,21,25,29,33,37,41,45,49,53,57,61,65,69,73,77,81,85,89,93,97,101,105,109,113,117,121,125,129,133,137,141,145,149,153,157,161,165,169,173,177,181,185,189,193,197,201,205,209,213,217,221,225,229]
+      ctl_channels     : [1,5,9,13,17,21,25,29,33,37,41,45,49,53,57,61,65,69,73,77,81,85,89,93,97,101,105,109,113,117,121,125,129,133,137,141,145,149,153,157,161,165,169,173,177,181,185,189,193,197,201,205,209,213,217,221,225,229]
+      pref_channels    : [5,21,37,53,69,85,101,117,133,149,165,181,197,213,229]
+      def_pref_channels: [5,21,37,53,69,85,101,117,133,149,165,181,197,213,229]
+      low_pref_channels: []
+      eu_weatherband   : [false]
+      agent_cap:
+        op_class[131] pref[0] reason[0] channels[233]
+        op_class[132] pref[0] reason[0] channels[]
+        op_class[133] pref[0] reason[0] channels[]
+        op_class[134] pref[0] reason[0] channels[]
+        op_class[137] pref[0] reason[0] channels[]
+      agent_pref:
+      ctrl_pref:
+        op_class[131] pref[0] reason[0] channels[1,9,13,17,25,29,33,41,45,49,57,61,65,73,77,81,89,93,97,105,109,113,121,125,129,137,141,145,153,157,161,169,173,177,185,189,193,201,205,209,217,221,225]
+        op_class[132] pref[0] reason[0] channels[11,27,43,59,75,91,107,123,139,155,171,187,203,219]
+      merged_pref:
+        op_class[131] pref[0] reason[0] channels[1,9,13,17,25,29,33,41,45,49,57,61,65,73,77,81,89,93,97,105,109,113,121,125,129,137,141,145,153,157,161,169,173,177,185,189,193,201,205,209,217,221,225]
+        op_class[132] pref[0] reason[0] channels[11,27,43,59,75,91,107,123,139,155,171,187,203,219]
+
+  RADIO[a0:2d:13:d4:b3:0d][2.4GHz]
+    config:
+      cloud_mgmt_enable: true
+      acs_enable       : true
+      acs_channels     : [1,6,11]
+      channel          : 0
+      bandwidth        : 0
+      backhaul         : false
+    state:
+      channel          : 1
+      bandwidth        : 20
+      op_class         : 81
+      cap_ctl_channels : [1,2,3,4,5,6,7,8,9,10,11]
+      ctl_channels     : [1,2,3,4,5,6,7,8,9,10,11]
+      pref_channels    : [1,6,11]
+      def_pref_channels: [1,6,11]
+      low_pref_channels: []
+      eu_weatherband   : [false]
+      agent_cap:
+        op_class[81] pref[0] reason[0] channels[12,13]
+        op_class[83] pref[0] reason[0] channels[8,9]
+        op_class[84] pref[0] reason[0] channels[12,13]
+      agent_pref:
+      ctrl_pref:
+        op_class[81] pref[0] reason[0] channels[2,3,4,5,7,8,9,10]
+        op_class[83] pref[0] reason[0] channels[]
+        op_class[84] pref[0] reason[0] channels[]
+      merged_pref:
+        op_class[81] pref[0] reason[0] channels[2,3,4,5,7,8,9,10]
+        op_class[83] pref[0] reason[0] channels[]
+        op_class[84] pref[0] reason[0] channels[]
+
+  RADIO[a0:2d:13:d4:b3:0e][5GHz low_high]
+    config:
+      cloud_mgmt_enable: true
+      acs_enable       : true
+      acs_channels     : [36,40,44,48,56,60,64,100,104,108,112,136,149,153,157]
+      channel          : 0
+      bandwidth        : 0
+      backhaul         : true
+    state:
+      channel          : 36
+      bandwidth        : 80
+      op_class         : 128
+      cap_ctl_channels : [36,40,44,48,52,56,60,64,100,104,108,112,116,120,124,128,132,136,140,144,149,153,157,161,165]
+      ctl_channels     : [36,40,44,48,52,56,60,64,100,104,108,112,116,120,124,128,132,136,140,144,149,153,157,161,165]
+      pref_channels    : [36,40,44,48,56,60,64,100,104,108,112,136,149,153,157]
+      def_pref_channels: [36,40,44,48,52,56,60,64,100,104,108,112,132,136,149,153,157,161]
+      low_pref_channels: []
+      clear_channels   : [36,40,44,48,149,153,157,161,165]
+      radar_channels   : []
+      cac_channels     : []
+      eu_weatherband   : [false]
+      agent_cap:
+        op_class[115] pref[0] reason[0] channels[]
+        op_class[118] pref[0] reason[0] channels[]
+        op_class[121] pref[0] reason[0] channels[]
+        op_class[124] pref[0] reason[0] channels[]
+        op_class[125] pref[0] reason[0] channels[169,173,177]
+        op_class[116] pref[0] reason[0] channels[]
+        op_class[119] pref[0] reason[0] channels[]
+        op_class[122] pref[0] reason[0] channels[]
+        op_class[126] pref[0] reason[0] channels[165,173]
+        op_class[117] pref[0] reason[0] channels[]
+        op_class[120] pref[0] reason[0] channels[]
+        op_class[123] pref[0] reason[0] channels[]
+        op_class[127] pref[0] reason[0] channels[169,177]
+        op_class[128] pref[0] reason[0] channels[171]
+        op_class[129] pref[0] reason[0] channels[163]
+      agent_pref:
+      ctrl_pref:
+        op_class[118] pref[0] reason[0] channels[52]
+        op_class[121] pref[0] reason[0] channels[116,120,124,128,132,140,144]
+        op_class[124] pref[0] reason[0] channels[161]
+        op_class[125] pref[0] reason[0] channels[161,165]
+        op_class[119] pref[0] reason[0] channels[52]
+        op_class[122] pref[0] reason[0] channels[116,124,132,140]
+        op_class[123] pref[0] reason[0] channels[120,128,144]
+        op_class[127] pref[0] reason[0] channels[161]
+        op_class[128] pref[0] reason[0] channels[122]
+        op_class[129] pref[0] reason[0] channels[]
+      merged_pref:
+        op_class[118] pref[0] reason[0] channels[52]
+        op_class[119] pref[0] reason[0] channels[52]
+        op_class[121] pref[0] reason[0] channels[116,120,124,128,132,140,144]
+        op_class[122] pref[0] reason[0] channels[116,124,132,140]
+        op_class[123] pref[0] reason[0] channels[120,128,144]
+        op_class[124] pref[0] reason[0] channels[161]
+        op_class[125] pref[0] reason[0] channels[161,165]
+        op_class[127] pref[0] reason[0] channels[161]
+        op_class[128] pref[0] reason[0] channels[122]
+        op_class[129] pref[0] reason[0] channels[]
+
+
+ALE[a2:2d:13:d4:a4:95]
+  RADIO[32:bd:13:d4:a4:99][6GHz]
+    config:
+      cloud_mgmt_enable: true
+      acs_enable       : true
+      acs_channels     : []
+      channel          : 0
+      bandwidth        : 0
+      backhaul         : true
+    state:
+      channel          : 101
+      bandwidth        : 320
+      op_class         : 137
+      cap_ctl_channels : [1,5,9,13,17,21,25,29,33,37,41,45,49,53,57,61,65,69,73,77,81,85,89,93,97,101,105,109,113,117,121,125,129,133,137,141,145,149,153,157,161,165,169,173,177,181,185,189,193,197,201,205,209,213,217,221,225,229]
+      ctl_channels     : [1,5,9,13,17,21,25,29,33,37,41,45,49,53,57,61,65,69,73,77,81,85,89,93,97,101,105,109,113,117,121,125,129,133,137,141,145,149,153,157,161,165,169,173,177,181,185,189,193,197,201,205,209,213,217,221,225,229]
+      pref_channels    : [5,21,37,53,69,85,101,117,133,149,165,181,197,213,229]
+      def_pref_channels: [5,21,37,53,69,85,101,117,133,149,165,181,197,213,229]
+      low_pref_channels: []
+      eu_weatherband   : [false]
+      agent_cap:
+        op_class[131] pref[0] reason[0] channels[233]
+        op_class[132] pref[0] reason[0] channels[]
+        op_class[133] pref[0] reason[0] channels[]
+        op_class[134] pref[0] reason[0] channels[]
+        op_class[137] pref[0] reason[0] channels[]
+      agent_pref:
+      ctrl_pref:
+        op_class[131] pref[0] reason[0] channels[1,9,13,17,25,29,33,41,45,49,57,61,65,73,77,81,89,93,97,105,109,113,121,125,129,137,141,145,153,157,161,169,173,177,185,189,193,201,205,209,217,221,225]
+        op_class[132] pref[0] reason[0] channels[11,27,43,59,75,91,107,123,139,155,171,187,203,219]
+      merged_pref:
+        op_class[131] pref[0] reason[0] channels[1,9,13,17,25,29,33,41,45,49,57,61,65,73,77,81,89,93,97,105,109,113,121,125,129,137,141,145,153,157,161,169,173,177,185,189,193,201,205,209,217,221,225]
+        op_class[132] pref[0] reason[0] channels[11,27,43,59,75,91,107,123,139,155,171,187,203,219]
+
+  RADIO[a0:2d:13:d4:a4:97][2.4GHz]
+    config:
+      cloud_mgmt_enable: true
+      acs_enable       : true
+      acs_channels     : [6,11]
+      channel          : 0
+      bandwidth        : 0
+      backhaul         : false
+    state:
+      channel          : 6
+      bandwidth        : 20
+      op_class         : 81
+      cap_ctl_channels : [1,2,3,4,5,6,7,8,9,10,11]
+      ctl_channels     : [1,2,3,4,5,6,7,8,9,10,11]
+      pref_channels    : [6,11]
+      def_pref_channels: [1,6,11]
+      low_pref_channels: []
+      eu_weatherband   : [false]
+      agent_cap:
+        op_class[81] pref[0] reason[0] channels[12,13]
+        op_class[83] pref[0] reason[0] channels[8,9]
+        op_class[84] pref[0] reason[0] channels[12,13]
+      agent_pref:
+      ctrl_pref:
+        op_class[81] pref[0] reason[0] channels[1,2,3,4,5,7,8,9,10]
+        op_class[83] pref[0] reason[0] channels[]
+        op_class[84] pref[0] reason[0] channels[]
+      merged_pref:
+        op_class[81] pref[0] reason[0] channels[1,2,3,4,5,7,8,9,10]
+        op_class[83] pref[0] reason[0] channels[]
+        op_class[84] pref[0] reason[0] channels[]
+
+  RADIO[a0:2d:13:d4:a4:98][5GHz low_high]
+    config:
+      cloud_mgmt_enable: true
+      acs_enable       : true
+      acs_channels     : [36,40,44,48,56,60,64,100,104,108,112,136,149,153,157]
+      channel          : 0
+      bandwidth        : 0
+      backhaul         : true
+    state:
+      channel          : 36
+      bandwidth        : 80
+      op_class         : 128
+      cap_ctl_channels : [36,40,44,48,52,56,60,64,100,104,108,112,116,120,124,128,132,136,140,144,149,153,157,161,165]
+      ctl_channels     : [36,40,44,48,52,56,60,64,100,104,108,112,116,120,124,128,132,136,140,144,149,153,157,161,165]
+      pref_channels    : [36,40,44,48,56,60,64,100,104,108,112,136,149,153,157]
+      def_pref_channels: [36,40,44,48,52,56,60,64,100,104,108,112,132,136,149,153,157,161]
+      low_pref_channels: []
+      clear_channels   : [36,40,44,48,132,136,140,144,149,153,157,161,165]
+      radar_channels   : []
+      cac_channels     : []
+      eu_weatherband   : [false]
+      agent_cap:
+        op_class[115] pref[0] reason[0] channels[]
+        op_class[118] pref[0] reason[0] channels[]
+        op_class[121] pref[0] reason[0] channels[]
+        op_class[124] pref[0] reason[0] channels[]
+        op_class[125] pref[0] reason[0] channels[169,173,177]
+        op_class[116] pref[0] reason[0] channels[]
+        op_class[119] pref[0] reason[0] channels[]
+        op_class[122] pref[0] reason[0] channels[]
+        op_class[126] pref[0] reason[0] channels[165,173]
+        op_class[117] pref[0] reason[0] channels[]
+        op_class[120] pref[0] reason[0] channels[]
+        op_class[123] pref[0] reason[0] channels[]
+        op_class[127] pref[0] reason[0] channels[169,177]
+        op_class[128] pref[0] reason[0] channels[171]
+        op_class[129] pref[0] reason[0] channels[163]
+      agent_pref:
+      ctrl_pref:
+        op_class[118] pref[0] reason[0] channels[52]
+        op_class[121] pref[0] reason[0] channels[116,120,124,128,132,140,144]
+        op_class[124] pref[0] reason[0] channels[161]
+        op_class[125] pref[0] reason[0] channels[161,165]
+        op_class[119] pref[0] reason[0] channels[52]
+        op_class[122] pref[0] reason[0] channels[116,124,132,140]
+        op_class[123] pref[0] reason[0] channels[120,128,144]
+        op_class[127] pref[0] reason[0] channels[161]
+        op_class[128] pref[0] reason[0] channels[122]
+        op_class[129] pref[0] reason[0] channels[]
+      merged_pref:
+        op_class[118] pref[0] reason[0] channels[52]
+        op_class[119] pref[0] reason[0] channels[52]
+        op_class[121] pref[0] reason[0] channels[116,120,124,128,132,140,144]
+        op_class[122] pref[0] reason[0] channels[116,124,132,140]
+        op_class[123] pref[0] reason[0] channels[120,128,144]
+        op_class[124] pref[0] reason[0] channels[161]
+        op_class[125] pref[0] reason[0] channels[161,165]
+        op_class[127] pref[0] reason[0] channels[161]
+        op_class[128] pref[0] reason[0] channels[122]
+        op_class[129] pref[0] reason[0] channels[]
+
+
+============================================================
+CEVENTC AUTH / DROP HEALTH
+============================================================
+1786025188332  25188332	wl2  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_COMMIT_TX
+1786026033955  845623	wl2  16:35:9F:85:E7:99 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786026173590  139635	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1786026173590  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_COMMIT_RX
+1786026173592  2	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_COMMIT_TX
+1786026173657  65	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1786026173657  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_CONFIRM_RX
+1786026173658  1	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_CONFIRM_TX
+1786026173669  11	wl0  EA:4F:44:F8:B5:23 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786026173670  1	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0003 DRIVER 	-- 	E_ASSOC/7
+1786026173691  21	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1786026173693  2	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786026173734  41	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786026173734  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1786026173734  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1786026173770  36	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1786026173770  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1786026173780  10	wl2  EE:5E:6F:0B:A6:03 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786026173781  1	wl1  CE:BD:E6:E7:85:4D 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786026173781  0	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786028521150  2347369	wl0  EA:4F:44:F8:B5:23 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786028521150  0	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786028558591  37441	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1786028558602  11	wl0  EA:4F:44:F8:B5:23 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786028558602  0	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786028558624  22	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1786028558626  2	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786028558658  32	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786028558658  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1786028558658  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1786028558680  22	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1786028558680  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1786028558683  3	wl1  CE:BD:E6:E7:85:4D 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786028558691  8	wl2  EE:5E:6F:0B:A6:03 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786028558691  0	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786028697441  138750	wl0  A2:1D:13:D4:B3:08 06144 0000 0000 0000 WBD 	TX 	BTM_REQ
+1786028703442  6001	wl0  A2:1D:13:D4:B3:08 06144 0000 0000 0000 WBD 	TX 	BTM_REQ
+1786028703514  72	wl0  EA:4F:44:F8:B5:23 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786028703514  0	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786028808655  105141	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1786028808655  0	wl0  EA:4F:44:F8:B5:23 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786028808656  1	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786028808688  32	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1786028808690  2	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786028808724  34	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786028808724  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1786028808724  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1786028808746  22	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1786028808746  0	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1786028808749  3	wl2  EE:5E:6F:0B:A6:03 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786028808750  1	wl1  CE:BD:E6:E7:85:4D 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786028808758  8	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786028863475  54717	wl0  A2:1D:13:D4:B3:08 06144 0000 0000 0000 WBD 	TX 	BTM_REQ
+1786028869480  6005	wl0  A2:1D:13:D4:B3:08 06144 0000 0000 0000 WBD 	TX 	BTM_REQ
+1786028870743  1263	wl0  EA:4F:44:F8:B5:23 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786028870744  1	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786029103143  232399	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1786029103143  0	wl0  EA:4F:44:F8:B5:23 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786029103143  0	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786029103155  12	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1786029103163  8	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786029103201  38	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1786029103201  0	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786029103201  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1786029103223  22	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1786029103223  0	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1786029103228  5	wl2  EE:5E:6F:0B:A6:03 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786029103232  4	wl1  CE:BD:E6:E7:85:4D 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786029103234  2	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786029202552  99318	wl0  A2:1D:13:D4:B3:08 06144 0000 0000 0000 WBD 	TX 	BTM_REQ
+1786029203511  959	wl0  EA:4F:44:F8:B5:23 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786029203512  1	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786029318182  114670	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1786029318186  4	wl1  CE:BD:E6:E7:85:4D 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786029318193  7	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786029318215  22	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1786029318218  3	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786029319220  1002	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786029319231  11	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786029319231  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1786029319231  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1786029319253  22	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1786029319253  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1786029319257  4	wl2  EE:5E:6F:0B:A6:03 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786029319264  7	wl1  CE:BD:E6:E7:85:4D 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786029319264  0	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786029386970  67706	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	G2_RX
+1786029386970  0	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	G2_RX
+1786029765430  378460	wl1  16:35:9F:85:E7:99 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1786029765430  0	wl1  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_COMMIT_RX
+1786029765432  2	wl1  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_COMMIT_TX
+1786029765552  120	wl1  16:35:9F:85:E7:99 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1786029765552  0	wl1  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_CONFIRM_RX
+1786029765553  1	wl1  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_CONFIRM_TX
+1786029765563  10	wl1  16:35:9F:85:E7:99 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786029765563  0	wl1  16:35:9F:85:E7:99 00000 0000 0000 0003 DRIVER 	-- 	E_ASSOC/7
+1786029765575  12	wl1  16:35:9F:85:E7:99 00000 0000 0000 262144 DRIVER 	-- 	E_REASSOC_IND/10
+1786029765577  2	wl1  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786029765586  9	wl1  16:35:9F:85:E7:99 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786029765586  0	wl1  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1786029765586  0	wl1  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1786029765597  11	wl1  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1786029765597  0	wl1  16:35:9F:85:E7:99 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1786029765609  12	wl1  16:35:9F:85:E7:99 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786029768085  2476	wl1  16:35:9F:85:E7:99 00000 0000 0000 0000 DRIVER 	RX 	DHCP_RX
+1786029768086  1	wl1  90:93:5A:52:94:33 00000 0000 0000 0000 DRIVER 	TX 	DHCP_TX
+1786030300290  532204	wl0  A2:1D:13:D4:B3:08 06144 0000 0000 0000 WBD 	TX 	BTM_REQ
+1786030306289  5999	wl0  A2:1D:13:D4:B3:08 06144 0000 0000 0000 WBD 	TX 	BTM_REQ
+1786030308687  2398	wl0  EA:4F:44:F8:B5:23 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786030308688  1	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786030534183  225495	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1786030534183  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_COMMIT_RX
+1786030534185  2	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_COMMIT_TX
+1786030534252  67	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1786030534252  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_CONFIRM_RX
+1786030534253  1	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_CONFIRM_TX
+1786030534261  8	wl1  CE:BD:E6:E7:85:4D 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786030534265  4	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0003 DRIVER 	-- 	E_ASSOC/7
+1786030534275  10	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1786030534278  3	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786030534308  30	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786030534308  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1786030534308  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1786030534331  23	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1786030534331  0	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1786030534337  6	wl2  EE:5E:6F:0B:A6:03 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786030534341  4	wl1  CE:BD:E6:E7:85:4D 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786030534342  1	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786030565077  30735	wl0  EA:4F:44:F8:B5:23 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786030565078  1	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786030630245  65167	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1786030630245  0	wl0  EA:4F:44:F8:B5:23 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786030630246  1	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786030630256  10	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1786030630258  2	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786030630289  31	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786030630289  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1786030630289  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1786030630311  22	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1786030630311  0	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1786030630313  2	wl2  EE:5E:6F:0B:A6:03 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786030630319  6	wl1  CE:BD:E6:E7:85:4D 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786030630322  3	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786030728447  98125	wl0  9E:87:55:FC:E3:88 00000 0000 0004 0000 DRIVER 	-- 	E_DEAUTH/5
+1786030810273  81826	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1786030810284  11	wl0  EA:4F:44:F8:B5:23 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786030810284  0	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786030810295  11	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1786030810297  2	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786030810328  31	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786030810328  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1786030810328  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1786030810351  23	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1786030810351  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1786030810357  6	wl2  EE:5E:6F:0B:A6:03 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786030810359  2	wl1  CE:BD:E6:E7:85:4D 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786030810363  4	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786031858338  1047975	wl1  16:35:9F:85:E7:99 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786031858338  0	wl1  16:35:9F:85:E7:99 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786031860243  1905	wl0  EA:4F:44:F8:B5:23 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786031860243  0	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786031864950  4707	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1786031864950  0	wl0  EA:4F:44:F8:B5:23 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786031864950  0	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786031864973  23	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1786031864975  2	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786031864994  19	wl2  16:35:9F:85:E7:99 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1786031864994  0	wl2  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_COMMIT_RX
+1786031864996  2	wl2  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_COMMIT_TX
+1786031864997  1	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786031865149  152	wl2  16:35:9F:85:E7:99 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1786031865149  0	wl2  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_CONFIRM_RX
+1786031865150  1	wl2  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_CONFIRM_TX
+1786031865171  21	wl2  16:35:9F:85:E7:99 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786031865171  0	wl2  16:35:9F:85:E7:99 00000 0000 0000 0003 DRIVER 	-- 	E_ASSOC/7
+1786031865182  11	wl2  16:35:9F:85:E7:99 00000 0000 0000 262144 DRIVER 	-- 	E_REASSOC_IND/10
+1786031865184  2	wl2  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786031865976  792	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786031865985  9	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786031865985  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1786031865985  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1786031866008  23	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1786031866008  0	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1786031866012  4	wl2  EE:5E:6F:0B:A6:03 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786031866013  1	wl1  CE:BD:E6:E7:85:4D 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786031866019  6	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786031866184  165	wl2  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786031867185  1001	wl2  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786031867387  202	wl2  16:35:9F:85:E7:99 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786031867387  0	wl2  16:35:9F:85:E7:99 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786031867535  148	wl0  EA:4F:44:F8:B5:23 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786031867535  0	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786031876204  8669	wl1  16:35:9F:85:E7:99 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1786031888859  12655	wl2  16:35:9F:85:E7:99 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1786031888903  44	wl2  16:35:9F:85:E7:99 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786031888903  0	wl2  16:35:9F:85:E7:99 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786031888914  11	wl2  16:35:9F:85:E7:99 00000 0000 0000 262144 DRIVER 	-- 	E_REASSOC_IND/10
+1786031888916  2	wl2  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786031888924  8	wl1  16:35:9F:85:E7:99 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786031888924  0	wl1  16:35:9F:85:E7:99 00000 0000 0003 0000 DRIVER 	-- 	E_DEAUTH/5
+1786031888950  26	wl2  16:35:9F:85:E7:99 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786031888950  0	wl2  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1786031888950  0	wl2  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1786031888962  12	wl2  16:35:9F:85:E7:99 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1786031888962  0	wl2  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1786031888974  12	wl2  16:35:9F:85:E7:99 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786031901897  12923	wl2  16:35:9F:85:E7:99 00000 0000 0000 0000 DRIVER 	RX 	DHCP_RX
+1786031901898  1	wl2  90:93:5A:52:94:32 00000 0000 0000 0000 DRIVER 	TX 	DHCP_TX
+1786031974597  72699	wl2  16:35:9F:85:E7:99 00000 0000 0004 0000 DRIVER 	-- 	E_DEAUTH/5
+1786032091692  117095	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1786032091703  11	wl0  EA:4F:44:F8:B5:23 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786032091704  1	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786032091725  21	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1786032091727  2	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786032091772  45	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786032091772  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1786032091772  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1786032091795  23	wl0  EA:4F:44:F8:B5:23 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1786032091795  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1786032091803  8	wl1  CE:BD:E6:E7:85:4D 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786032091803  0	wl2  EE:5E:6F:0B:A6:03 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786032091806  3	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786032093317  1511	wl0  EA:4F:44:F8:B5:23 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786032093329  12	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785950947034  918853705	wl1  D6:0B:4E:9B:64:45 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1785950947035  1	wl1  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1785950947035  0	wl1  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1785950947045  10	wl1  D6:0B:4E:9B:64:45 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1785950947046  1	wl1  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1785950947112  66	wl1  D6:0B:4E:9B:64:45 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785950948494  1382	wl1  D6:0B:4E:9B:64:45 00000 0000 0000 0000 DRIVER 	RX 	DHCP_RX
+1785950948495  1	wl1  90:93:5A:52:94:33 00000 0000 0000 0000 DRIVER 	TX 	DHCP_TX
+1785950974862  26367	wl1  D6:0B:4E:9B:64:45 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785950974862  0	wl1  D6:0B:4E:9B:64:45 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785951109292  134430	wl2  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_CSA_COMPLETE_IND/80
+1785951109293  1	wl2  90:93:5A:52:94:32 00001 0000 0000 0000 DRIVER 	-- 	E_LINK/16
+1785952754774  1645481	wl1  00:00:00:00:00:00 00000 0000 0001 0000 DRIVER 	-- 	E_RADAR_DETECTED/160
+1785953861458  1106684	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1785953861458  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_COMMIT_RX
+1785953861460  2	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_COMMIT_TX
+1785953861514  54	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1785953861514  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_CONFIRM_RX
+1785953861517  3	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_CONFIRM_TX
+1785953861525  8	wl0  82:65:CB:6A:F7:86 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785953861525  0	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0003 DRIVER 	-- 	E_ASSOC/7
+1785953861547  22	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1785953861550  3	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785953861581  31	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1785953861581  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1785953861581  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1785953861603  22	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1785953861603  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1785953861607  4	wl1  8A:28:7B:0F:F0:48 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785953861611  4	wl2  EA:DC:B1:89:57:DB 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785953861614  3	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785955169466  1307852	wl1  00:00:00:00:00:00 06144 0000 0009 0000 ACSD 	-- 	ACS_ZDFS(64/80)
+1785955170503  1037	wl1  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_CSA_COMPLETE_IND/80
+1785955170503  0	wl1.7  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_CSA_COMPLETE_IND/80
+1785955170525  22	wl1  90:93:5A:52:94:33 00001 0000 0000 0000 DRIVER 	-- 	E_LINK/16
+1785955170713  188	wl1.7  92:93:5A:87:5C:8F 00001 0000 0000 0000 DRIVER 	-- 	E_LINK/16
+1785955563682  392969	wl1  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_RADAR_DETECTED/160
+1785955564610  928	wl1  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_CSA_COMPLETE_IND/80
+1785955564610  0	wl1.7  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_CSA_COMPLETE_IND/80
+1785955564633  23	wl1.7  92:93:5A:87:5C:8F 00001 0000 0000 0000 DRIVER 	-- 	E_LINK/16
+1785955564822  189	wl1  90:93:5A:52:94:33 00001 0000 0000 0000 DRIVER 	-- 	E_LINK/16
+1785955567358  2536	wl1  00:00:00:00:00:00 06144 0000 0006 0000 ACSD 	-- 	ACS_NONACS(157/80)
+1785956157913  590555	wl0  82:65:CB:6A:F7:86 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785956157914  1	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785956206919  49005	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1785956206919  0	wl0  82:65:CB:6A:F7:86 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785956206919  0	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785956206931  12	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1785956206938  7	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785956206975  37	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1785956206975  0	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1785956206975  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1785956206998  23	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1785956206998  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1785956207009  11	wl1  8A:28:7B:0F:F0:48 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785956207009  0	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785956207010  1	wl2  EA:DC:B1:89:57:DB 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785956282919  75909	wl0  82:65:CB:6A:F7:86 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785956282919  0	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785956283039  120	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1785956283039  0	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785956283039  0	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785956283050  11	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_ASSOC_IND/8
+1785956283052  2	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785956283061  9	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1785956283061  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1785956283062  1	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1785956283072  10	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1785956283072  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1785956283083  11	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785956284569  1486	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785956284570  1	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785956292023  7453	wl2  00:00:00:00:00:00 06144 0000 0003 0000 ACSD 	-- 	ACS_TIMER(8)
+1785956293054  1031	wl2  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_CSA_COMPLETE_IND/80
+1785956293065  11	wl2  90:93:5A:52:94:32 00001 0000 0000 0000 DRIVER 	-- 	E_LINK/16
+1785956332692  39627	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1785956332703  11	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785956332705  2	wl1  8A:28:7B:0F:F0:48 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785956332715  10	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1785956332722  7	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785956333723  1001	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785956333735  12	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1785956333735  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1785956333735  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1785956333757  22	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1785956333757  0	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1785956333768  11	wl2  EA:DC:B1:89:57:DB 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785956333768  0	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785956333768  0	wl1  8A:28:7B:0F:F0:48 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785956365086  31318	wl0  32:BD:13:D4:A4:9A 06144 0000 0000 0000 WBD 	TX 	BTM_REQ
+1785956369681  4595	wl0  82:65:CB:6A:F7:86 00000 0000 0254 0000 DRIVER 	-- 	E_DEAUTH/5
+1785956369683  2	wl0  82:65:CB:6A:F7:86 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785956405694  36011	wl2  D6:0B:4E:9B:64:45 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1785956405695  1	wl2  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_COMMIT_RX
+1785956405697  2	wl2  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_COMMIT_TX
+1785956408705  3008	wl1  D6:0B:4E:9B:64:45 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1785956408705  0	wl1  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_COMMIT_RX
+1785956408707  2	wl1  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_COMMIT_TX
+1785956408823  116	wl1  D6:0B:4E:9B:64:45 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1785956408823  0	wl1  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_CONFIRM_RX
+1785956408824  1	wl1  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_CONFIRM_TX
+1785956408869  45	wl1  D6:0B:4E:9B:64:45 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785956408869  0	wl1  D6:0B:4E:9B:64:45 00000 0000 0000 0003 DRIVER 	-- 	E_ASSOC/7
+1785956408881  12	wl1  D6:0B:4E:9B:64:45 00000 0000 0000 262144 DRIVER 	-- 	E_REASSOC_IND/10
+1785956408882  1	wl1  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785956408899  17	wl2  D6:0B:4E:9B:64:45 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785956408903  4	wl1  D6:0B:4E:9B:64:45 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1785956408903  0	wl1  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1785956408903  0	wl1  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1785956408914  11	wl1  D6:0B:4E:9B:64:45 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1785956408914  0	wl1  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1785956408926  12	wl1  D6:0B:4E:9B:64:45 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785956424363  15437	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1785956424363  0	wl0  82:65:CB:6A:F7:86 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785956424363  0	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785956426867  2504	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1785956426867  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_COMMIT_RX
+1785956426870  3	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_COMMIT_TX
+1785956426924  54	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1785956426924  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_CONFIRM_RX
+1785956426925  1	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_CONFIRM_TX
+1785956426935  10	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785956426935  0	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0003 DRIVER 	-- 	E_ASSOC/7
+1785956426946  11	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785956426946  0	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1785956426948  2	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785956427949  1001	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785956428950  1001	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785956429722  772	wl0  9E:87:55:FC:E3:88 00000 0000 0009 0000 DRIVER 	-- 	E_DEAUTH/5
+1785956429723  1	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785956429799  76	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785956429799  0	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785956447327  17528	wl1  D6:0B:4E:9B:64:45 00000 0000 0000 0000 DRIVER 	RX 	DHCP_RX
+1785956447328  1	wl1  90:93:5A:52:94:33 00000 0000 0000 0000 DRIVER 	TX 	DHCP_TX
+1785956464267  16939	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1785956464279  12	wl1  8A:28:7B:0F:F0:48 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785956464279  0	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785956464290  11	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1785956464294  4	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785956464324  30	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1785956464324  0	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1785956464324  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1785956464346  22	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1785956464346  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1785956464352  6	wl2  EA:DC:B1:89:57:DB 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785956464358  6	wl1  8A:28:7B:0F:F0:48 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785956464358  0	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785956523275  58917	wl0  82:65:CB:6A:F7:86 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785956523275  0	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785956561492  38217	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1785956561514  22	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785956561517  3	wl2  EA:DC:B1:89:57:DB 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785956561526  9	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1785956561529  3	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785956562530  1001	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785956563531  1001	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785956563562  31	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1785956563562  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1785956563562  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1785956563684  122	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1785956563684  0	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1785956563706  22	wl2  EA:DC:B1:89:57:DB 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785956563706  0	wl1  8A:28:7B:0F:F0:48 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785956563706  0	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785956565394  1688	wl0  82:65:CB:6A:F7:86 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785956565406  12	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785956597613  32207	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1785956597613  0	wl0  82:65:CB:6A:F7:86 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785956597625  12	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785956597637  12	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1785956597643  6	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785956597670  27	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1785956597670  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1785956597670  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1785956597692  22	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1785956597692  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1785956597700  8	wl1  8A:28:7B:0F:F0:48 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785956597703  3	wl2  EA:DC:B1:89:57:DB 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785956597703  0	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785957385696  787993	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	G2_RX
+1785957385698  2	wl1  D6:0B:4E:9B:64:45 06144 0000 0000 0000 EAPD 	RX 	G2_RX
+1785957423353  37655	wl1  00:00:00:00:00:00 00000 0000 0001 0000 DRIVER 	-- 	E_RADAR_DETECTED/160
+1785958071274  647921	wl0  82:65:CB:6A:F7:86 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785958071274  0	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785958345051  273777	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1785958345051  0	wl0  82:65:CB:6A:F7:86 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785958345052  1	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785958345062  10	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1785958345065  3	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785958345106  41	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1785958345106  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1785958345106  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1785958345128  22	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1785958345128  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1785958345139  11	wl1  8A:28:7B:0F:F0:48 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785958345139  0	wl2  EA:DC:B1:89:57:DB 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785958345139  0	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785960985362  2640223	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	G2_RX
+1785960986022  660	wl1  D6:0B:4E:9B:64:45 06144 0000 0000 0000 EAPD 	RX 	G2_RX
+1785963975662  2989640	wl1  D6:0B:4E:9B:64:45 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785963975662  0	wl1  D6:0B:4E:9B:64:45 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785964309624  333962	wl2  D6:0B:4E:9B:64:45 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1785964309624  0	wl2  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_COMMIT_RX
+1785964309626  2	wl2  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_COMMIT_TX
+1785964309756  130	wl2  D6:0B:4E:9B:64:45 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1785964309756  0	wl2  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_CONFIRM_RX
+1785964309757  1	wl2  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_CONFIRM_TX
+1785964309789  32	wl2  D6:0B:4E:9B:64:45 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785964309789  0	wl2  D6:0B:4E:9B:64:45 00000 0000 0000 0003 DRIVER 	-- 	E_ASSOC/7
+1785964309800  11	wl2  D6:0B:4E:9B:64:45 00000 0000 0000 262144 DRIVER 	-- 	E_REASSOC_IND/10
+1785964309802  2	wl2  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785964310803  1001	wl2  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785964311803  1000	wl2  D6:0B:4E:9B:64:45 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785964311929  126	wl2  D6:0B:4E:9B:64:45 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785964311929  0	wl2  D6:0B:4E:9B:64:45 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785964585357  273428	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	G2_RX
+1785964720333  134976	wl0  A2:1D:13:D4:B3:08 06144 0000 0000 0000 WBD 	TX 	BTM_REQ
+1785964721364  1031	wl0  82:65:CB:6A:F7:86 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785964721364  0	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785964742363  20999	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1785964742364  1	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_COMMIT_RX
+1785964742365  1	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_COMMIT_TX
+1785964742419  54	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1785964742421  2	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_CONFIRM_RX
+1785964742421  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_CONFIRM_TX
+1785964742431  10	wl0  82:65:CB:6A:F7:86 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785964742431  0	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0003 DRIVER 	-- 	E_ASSOC/7
+1785964742455  24	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1785964742456  1	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785964742487  31	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1785964743457  970	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785964743468  11	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1785964743468  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1785964743469  1	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1785964743490  21	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1785964743490  0	wl0  82:65:CB:6A:F7:86 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1785964743501  11	wl1  8A:28:7B:0F:F0:48 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785964743502  1	wl2  EA:DC:B1:89:57:DB 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785964743502  0	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785964745463  1961	wl0  82:65:CB:6A:F7:86 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785964745463  0	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785964748968  3505	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1785964748979  11	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785964748979  0	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1785964748990  11	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_ASSOC_IND/8
+1785964748993  3	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785964749994  1001	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1785964750013  19	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1785964750013  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1785964750013  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1785964750025  12	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1785964750025  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1785964750036  11	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1785964751732  1696	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1785964751733  1	wl0  9E:87:55:FC:E3:88 00000 0000 0003 0000 DRIVER 	-- 	E_DEAUTH/5
+1785977532083  12780350	wl2  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_RADAR_DETECTED/160
+1785977538079  5996	wl2  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_RADAR_DETECTED/160
+1785977560126  22047	wl2  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_RADAR_DETECTED/160
+1785977566276  6150	wl2  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_RADAR_DETECTED/160
+1785977572129  5853	wl2  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_RADAR_DETECTED/160
+1785977580085  7956	wl2  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_RADAR_DETECTED/160
+1785977798301  218216	wl1  00:00:00:00:00:00 06144 0000 0009 0000 ACSD 	-- 	ACS_ZDFS(136/80)
+1785977799311  1010	wl1  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_CSA_COMPLETE_IND/80
+1785977799311  0	wl1.7  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_CSA_COMPLETE_IND/80
+1785977799333  22	wl1  90:93:5A:52:94:33 00001 0000 0000 0000 DRIVER 	-- 	E_LINK/16
+1785977799531  198	wl1.7  92:93:5A:87:5C:8F 00001 0000 0000 0000 DRIVER 	-- 	E_LINK/16
+1785978030646  231115	wl1  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_RADAR_DETECTED/160
+1785978031625  979	wl1  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_CSA_COMPLETE_IND/80
+1785978031625  0	wl1.7  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_CSA_COMPLETE_IND/80
+1785978031647  22	wl1.7  92:93:5A:87:5C:8F 00001 0000 0000 0000 DRIVER 	-- 	E_LINK/16
+1785978031845  198	wl1  90:93:5A:52:94:33 00001 0000 0000 0000 DRIVER 	-- 	E_LINK/16
+1785978034304  2459	wl1  00:00:00:00:00:00 06144 0000 0006 0000 ACSD 	-- 	ACS_NONACS(157/80)
+1785979439284  1404980	wl1  00:00:00:00:00:00 00000 0000 0001 0000 DRIVER 	-- 	E_RADAR_DETECTED/160
+1785979890286  451002	wl1  00:00:00:00:00:00 00000 0000 0001 0000 DRIVER 	-- 	E_RADAR_DETECTED/160
+1785982377828  2487542	wl2  00:00:00:00:00:00 06144 0000 0005 0000 ACSD 	-- 	ACS_TXOP(2)
+1785982379005  1177	wl2  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_CSA_COMPLETE_IND/80
+1785982379017  12	wl2  90:93:5A:52:94:32 00001 0000 0000 0000 DRIVER 	-- 	E_LINK/16
+1786005309977  -977069040	wl2  00:00:00:00:00:00 06144 0000 0005 0000 ACSD 	-- 	ACS_TXOP(10)
+1786005310988  1011	wl2  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_CSA_COMPLETE_IND/80
+1786005311011  23	wl2  90:93:5A:52:94:32 00001 0000 0000 0000 DRIVER 	-- 	E_LINK/16
+1786021486382  16175371	wl1  00:00:00:00:00:00 06144 0000 0009 0000 ACSD 	-- 	ACS_ZDFS(136/80)
+1786021487371  989	wl1  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_CSA_COMPLETE_IND/80
+1786021487371  0	wl1.7  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_CSA_COMPLETE_IND/80
+1786021487393  22	wl1  90:93:5A:52:94:33 00001 0000 0000 0000 DRIVER 	-- 	E_LINK/16
+1786021487580  187	wl1.7  92:93:5A:87:5C:8F 00001 0000 0000 0000 DRIVER 	-- 	E_LINK/16
+1786022008860  521280	wl1  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_CSA_COMPLETE_IND/80
+1786022008860  0	wl1.7  00:00:00:00:00:00 00000 0000 0000 0000 DRIVER 	-- 	E_CSA_COMPLETE_IND/80
+1786022008882  22	wl1.7  92:93:5A:87:5C:8F 00001 0000 0000 0000 DRIVER 	-- 	E_LINK/16
+1786022009069  187	wl1  90:93:5A:52:94:33 00001 0000 0000 0000 DRIVER 	-- 	E_LINK/16
+1786022012686  3617	wl1  00:00:00:00:00:00 06144 0000 0006 0000 ACSD 	-- 	ACS_NONACS(36/80)
+1786022880472  867786	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1786022880472  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_COMMIT_RX
+1786022880477  5	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_COMMIT_TX
+1786022880539  62	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1786022880541  2	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_CONFIRM_RX
+1786022880541  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_CONFIRM_TX
+1786022880550  9	wl0  12:F0:E8:44:52:5C 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786022880550  0	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0003 DRIVER 	-- 	E_ASSOC/7
+1786022880572  22	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1786022880575  3	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786022880606  31	wl0  12:F0:E8:44:52:5C 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786022881576  970	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786022881589  13	wl0  12:F0:E8:44:52:5C 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786022881589  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1786022881589  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1786022881611  22	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1786022881611  0	wl0  12:F0:E8:44:52:5C 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1786022881619  8	wl2  36:7C:FC:48:5F:69 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786022881622  3	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786022881623  1	wl1  4A:12:32:83:6C:CC 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786022994820  113197	wl0  32:BD:13:D4:A4:9A 06144 0000 0000 0000 WBD 	TX 	BTM_REQ
+1786022997692  2872	wl2  16:35:9F:85:E7:99 00000 0000 0003 0000 DRIVER 	-- 	ERR_MAC_DENY
+1786023000822  3130	wl0  32:BD:13:D4:A4:9A 06144 0000 0000 0000 WBD 	TX 	BTM_REQ
+1786023004645  3823	wl0  12:F0:E8:44:52:5C 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786023004645  0	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786023032350  27705	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1786023032361  11	wl0  12:F0:E8:44:52:5C 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786023032361  0	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786023032373  12	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1786023032375  2	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786023032418  43	wl0  12:F0:E8:44:52:5C 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786023033376  958	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786023033388  12	wl0  12:F0:E8:44:52:5C 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786023033388  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1786023033388  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1786023033411  23	wl0  12:F0:E8:44:52:5C 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1786023033411  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1786023033419  8	wl1  4A:12:32:83:6C:CC 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786023033423  4	wl2  36:7C:FC:48:5F:69 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786023033423  0	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786023116318  82895	wl0  12:F0:E8:44:52:5C 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786023116319  1	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786023116429  110	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1786023116440  11	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786023116440  0	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786023116451  11	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_ASSOC_IND/8
+1786023116453  2	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786023116463  10	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786023116463  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1786023116463  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1786023116474  11	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1786023116474  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1786023116485  11	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786023163214  46729	wl0  32:BD:13:D4:A4:9A 06144 0000 0000 0000 WBD 	TX 	BTM_REQ
+1786023169215  6001	wl0  32:BD:13:D4:A4:9A 06144 0000 0000 0000 WBD 	TX 	BTM_REQ
+1786023170989  1774	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786023170990  1	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786023204440  33450	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1786023204462  22	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786023204468  6	wl2  36:7C:FC:48:5F:69 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786023204485  17	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1786023204486  1	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786023204540  54	wl0  12:F0:E8:44:52:5C 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786023204540  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1786023204540  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1786023204573  33	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1786023204573  0	wl0  12:F0:E8:44:52:5C 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1786023204578  5	wl2  36:7C:FC:48:5F:69 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786023204584  6	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786023204585  1	wl1  4A:12:32:83:6C:CC 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786023320037  115452	wl0  12:F0:E8:44:52:5C 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786023320037  0	wl0  9E:87:55:FC:E3:88 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786023379638  59601	wl2  16:35:9F:85:E7:99 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1786023379639  1	wl2  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_COMMIT_RX
+1786023379641  2	wl2  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	TX 	SAE_AUTH_COMMIT_TX
+1786023434811  55170	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_AUTH_IND/4
+1786023434822  11	wl0  12:F0:E8:44:52:5C 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786023434822  0	wl0  9E:87:55:FC:E3:88 00000 0000 0000 0000 DRIVER 	-- 	E_ASSOC/7
+1786023434844  22	wl0  9E:87:55:FC:E3:88 00000 0000 0000 8388608 DRIVER 	-- 	E_REASSOC_IND/10
+1786023434847  3	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M1_TX
+1786023434877  30	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M2_RX
+1786023434877  0	wl0  12:F0:E8:44:52:5C 06144 0000 0000 0000 EAPD 	RX 	M2_RX
+1786023434877  0	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	TX 	M3_TX
+1786023434900  23	wl0  9E:87:55:FC:E3:88 06144 0000 0000 0000 HOSTAPD 	RX 	M4_RX
+1786023434900  0	wl0  12:F0:E8:44:52:5C 06144 0000 0000 0000 EAPD 	RX 	M4_RX
+1786023434906  6	wl2  36:7C:FC:48:5F:69 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786023434907  1	wl1  4A:12:32:83:6C:CC 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786023434912  5	wl0  9E:87:55:FC:E3:88 00000 0136 0000 0000 DRIVER 	-- 	E_AUTHORIZED/136
+1786023867157  432245	wl1  00:00:00:00:00:00 00000 0000 0001 0000 DRIVER 	-- 	E_RADAR_DETECTED/160
+1786023920659  53502	wl0  A2:1D:13:D4:B3:08 06144 0000 0000 0000 WBD 	TX 	BTM_REQ
+1786023926660  6001	wl0  A2:1D:13:D4:B3:08 06144 0000 0000 0000 WBD 	TX 	BTM_REQ
+1786023927528  868	wl0  12:F0:E8:44:52:5C 00000 0000 0254 0000 DRIVER 	-- 	E_DEAUTH/5
+1786023927529  1	wl0  12:F0:E8:44:52:5C 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786025155928  1228399	wl2  16:35:9F:85:E7:99 00000 0000 0008 0000 DRIVER 	-- 	E_DISASSOC_IND/12
+1786025188330  32402	wl2  16:35:9F:85:E7:99 00000 0000 0000 0003 DRIVER 	-- 	E_AUTH/3
+1786025188330  0	wl2  16:35:9F:85:E7:99 06144 0000 0000 0000 HOSTAPD 	RX 	SAE_AUTH_COMMIT_RX
+TIME(ms)  TDiff IFace STA_MAC_ADDRESS   Flags Stts Rsn  Auth AT    	Dir 	EVENT
+
+============================================================
+NEIGHBOR HEALTH
+============================================================
+192.168.1.78 dev br1 FAILED 
+192.168.1.66 dev br1 lladdr 00:10:5e:03:6a:f2 REACHABLE 
+192.168.2.254 dev br1 lladdr a0:2d:13:d4:a4:95 STALE 
+192.168.1.218 dev br1 lladdr 2c:58:b9:b9:a5:c5 REACHABLE 
+192.168.1.118 dev br1 FAILED 
+99.10.216.1 dev br2 lladdr 18:5b:00:7c:09:16 REACHABLE 
+192.168.1.121 dev br1 lladdr a0:2d:13:d4:b3:0b REACHABLE 
+192.168.1.130 dev br1 FAILED 
+192.168.1.131 dev br1 lladdr 2e:ae:6d:df:b6:dc STALE 
+192.168.1.132 dev br1 lladdr b6:68:17:89:51:81 STALE 
+192.168.1.125 dev br1 lladdr a0:2d:13:d4:a4:95 STALE 
+192.168.1.133 dev br1 lladdr 4e:84:bd:82:fa:13 STALE 
+192.168.1.136 dev br1 lladdr 16:35:9f:85:e7:99 STALE 
+192.168.1.134 dev br1 lladdr a0:2d:13:d4:a4:95 REACHABLE 
+192.168.1.135 dev br1 lladdr d6:0b:4e:9b:64:45 STALE 
+192.168.1.209 dev br1 FAILED 
+2600:1702:55f8:f400:7402:7752:e7bf:9472 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+fe80::87a:814f:c667:938 dev br1 lladdr 9e:87:55:fc:e3:88 STALE 
+fe80::3c68:3640:465b:698c dev br1 FAILED 
+2600:1702:55f8:f400:85b9:3ea0:1842:9a21 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:2498:c4c3:3659:77fb dev br1 FAILED 
+fe80::a22d:13ff:fed4:a495 dev br1 lladdr a0:2d:13:d4:a4:95 router STALE 
+2600:1702:55f8:f400:99cf:5204:1f2a:d9c7 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:fc43:9a71:7b5d:b386 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+fe80::1453:4375:6d84:6207 dev br1 lladdr 16:35:9f:85:e7:99 STALE 
+fe80::c34:37b1:4b7c:cbfd dev br1 lladdr 9e:87:55:fc:e3:88 STALE 
+2600:1702:55f8:f400:60d5:ed63:3da4:6481 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:4152:738f:6932:8fd dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:38a5:6abf:ef02:e6a6 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:6c50:784e:5bf1:87ff dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:959d:3835:a156:8c31 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+fe80::1a5b:ff:fe7c:7cc dev br2 lladdr 18:5b:00:7c:09:16 router STALE 
+2600:1702:55f8:f400:8ced:9899:334b:98b4 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:b02f:1724:bfc7:dea1 dev br1 lladdr d6:0b:4e:9b:64:45 STALE 
+2600:1702:55f8:f400:d06c:9c5b:ed23:7ec9 dev br1 lladdr 9e:87:55:fc:e3:88 STALE 
+2600:1702:55f8:f400:f57f:a77f:a0be:5eff dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:94cf:9fb7:73be:dc59 dev br1 FAILED 
+2600:1702:55f8:f400:c4e8:83a4:10c7:aca9 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:b9f3:c963:b8f0:2930 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:8029:56a4:b419:7e4c dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+fe80::a22d:13ff:fed4:b30b dev br1 lladdr a0:2d:13:d4:b3:0b router STALE 
+2600:1702:55f8:f400::49 dev br1 lladdr a0:2d:13:d4:a4:95 router STALE 
+2600:1702:55f8:f400:f09e:63c3:830:1ce7 dev br1 lladdr 16:35:9f:85:e7:99 STALE 
+2600:1702:55f8:f400:55a2:e064:2133:95f3 dev br1 lladdr 16:35:9f:85:e7:99 STALE 
+2600:1702:55f8:f400:38b7:901f:b531:b981 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:7867:477f:2514:3512 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400::48 dev br1 lladdr a0:2d:13:d4:b3:0b router STALE 
+2600:1702:55f8:f400:fd00:a0b3:1d2a:6ba0 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:38b3:f28f:ff54:53eb dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:e9bd:4ca:3a80:db62 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:424:c82a:2748:dfd5 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:a82f:d4fd:8fa8:e5f4 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:a587:7baf:dff7:9502 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:54bc:845f:f016:c642 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:31d0:b124:db3e:e8bf dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:a191:338a:3f92:ed45 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:2c91:4c11:8b2b:7396 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+fe80::9293:5aff:fe1f:d860 dev br1 lladdr 90:93:5a:1f:d8:60 router STALE 
+2600:1702:55f8:f400:3c0c:3ec1:c039:b399 dev br1 lladdr 9e:87:55:fc:e3:88 STALE 
+2600:1702:55f8:f400:c59e:276:f55:1df6 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+fe80::210:5eff:fe03:6af2 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:4d76:2d13:3549:7e24 dev br1 lladdr d6:0b:4e:9b:64:45 STALE 
+2600:1702:55f8:f400:6065:673b:5076:41a1 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:127:90d2:b5a4:404f dev br1 FAILED 
+2600:1702:55f8:f400:a034:e54b:670b:f59e dev br1 lladdr 9e:87:55:fc:e3:88 STALE 
+2600:1702:55f8:f400:e0d0:4efc:4c49:d2e dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:862:3642:daf4:e283 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:c4ae:3a19:c4ad:d3bc dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:7037:818d:3d9d:c5f8 dev br1 FAILED 
+2600:1702:55f8:f400:a1dc:bef7:ad29:e6e3 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:84d9:5218:1014:58bc dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:e537:5c6a:dd94:ddba dev br1 lladdr 9e:87:55:fc:e3:88 STALE 
+2600:1702:55f8:f400:4456:bc74:724b:2687 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:1063:6640:f36e:86da dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:38a9:11e5:d223:c3e5 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+2600:1702:55f8:f400:5970:9168:1374:dee9 dev br1 lladdr 00:10:5e:03:6a:f2 STALE 
+fe80::1042:6510:4222:b81d dev br1 FAILED 
+
+============================================================
+SYSTEM / MEMORY HEALTH
+============================================================
+MemTotal:        3953748 kB
+MemFree:         2465264 kB
+MemAvailable:    2707392 kB
+Buffers:           67112 kB
+Cached:           208368 kB
+SwapCached:            0 kB
+Active:           105204 kB
+Inactive:         279752 kB
+Active(anon):       3156 kB
+Inactive(anon):   111424 kB
+Active(file):     102048 kB
+Inactive(file):   168328 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:                 8 kB
+Writeback:             0 kB
+AnonPages:        109372 kB
+Mapped:            51700 kB
+Shmem:              5104 kB
+KReclaimable:      14724 kB
+Slab:             263704 kB
+SReclaimable:      14724 kB
+SUnreclaim:       248980 kB
+KernelStack:        4448 kB
+PageTables:         4364 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     1976872 kB
+Committed_AS:     676812 kB
+VmallocTotal:   259653632 kB
+VmallocUsed:       97416 kB
+VmallocChunk:          0 kB
+Percpu:              960 kB
+CmaTotal:         741376 kB
+CmaFree:           18328 kB
+
+============================================================
+DNS / NAT HEALTH
+============================================================
+Server:    127.0.0.1
+Address 1: 127.0.0.1 localhost
+
+Name:      att.com
+Address 1: 144.160.155.43 att.net
+Address 2: 144.160.36.42 att.net
+
+============================================================
+STABILITY / CRASH HEALTH
+============================================================
+
+ System Uptime: 9 days, 23 hrs, 29 mins, 04 secs
+ Last Process Restarted: None
+
+System Uptime (days:hrs:mins:secs): 09:23:29:03
+
+ -------------------------------------------------------------------------------------------------------------------------
+
+ Process              Status     TxHB     RxHB     CurrentMissed    TotalMissed  PeakMissed   Threshold  RestartCount
+
+ -------------------------------------------------------------------------------------------------------------------------
+
+ SDB                  OK         172408   172407   0                6            4            360        0           
+
+ VOIP                 OK         172401   172400   0                0            0            360        0           
+
+ MCP                  OK         172397   172397   0                0            0            360        0           
+
+ ACSD2                OK         172401   172400   0                0            0            360        0           
+
+ EAPD                 OK         172404   172403   0                0            0            360        0           
+
+ CEVENTD              OK         172417   172416   0                0            0            360        0           
+
+ WBD_SLAVE            OK         172394   172393   0                2            2            360        0           
+
+ HOSTAPD              OK         172396   172395   0                0            0            360        0           
+
+
+No crash dump information is available for non-resilient processes 
+
+No crashlog information is available
+
+
+No kfm crashdump information is available 
+
+version 1
+1785175845,Firmware upgrade
+1783954899,Firmware upgrade
+1783384725,Firmware upgrade
+1782836502,Firmware upgrade
+1781887286,Firmware upgrade
+1781713498,Firmware upgrade
+1780815087,Power On Reset
+1780323764,Firmware upgrade
+1779111330,Firmware upgrade
+1777917083,Firmware upgrade
+[777471.691416] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777491.807150] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777511.956440] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777532.083669] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777552.208598] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777572.335014] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777592.461680] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777612.589071] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777632.899399] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777653.025426] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777658.556268] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777668.557914] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777673.194868] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777688.559813] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777693.343407] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777695.602623] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777705.604274] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777713.500521] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777725.605810] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777732.658039] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777733.635126] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777742.660043] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777753.779654] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777762.662061] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777769.714171] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777773.982465] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777779.715928] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777794.164487] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777799.717618] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777806.760853] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777814.293202] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777816.762585] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777834.431449] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777836.764339] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777843.813605] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777853.815030] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777854.579729] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777873.816577] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777874.737658] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777880.868091] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777890.869629] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777894.864473] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777910.871447] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777914.979180] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777916.915744] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777926.917388] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777935.124001] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777946.919158] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777953.971853] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777955.243475] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777963.973603] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777975.466137] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777983.975202] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777991.025775] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[777995.595966] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778001.029087] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778015.742734] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778021.030993] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778028.081412] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778035.862049] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778038.083275] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778056.028267] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778058.085078] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778076.287889] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778088.087180] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778096.581419] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778116.830361] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778128.088798] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778137.120965] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778157.387571] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778177.682237] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778178.090519] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778197.938924] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778218.217133] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778238.092230] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778238.492197] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778258.781886] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778279.046226] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778299.301648] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778308.093924] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778319.515540] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778339.905281] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778360.372572] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778380.743581] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778401.114276] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778421.507574] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778441.947719] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778462.233862] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778482.638472] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778503.011679] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778523.373206] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778543.782409] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778564.112564] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778584.490125] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778604.732178] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778625.070463] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778645.414452] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778665.720217] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778686.101400] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778706.459511] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778726.827071] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778747.219815] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778767.615322] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778787.999482] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778808.348570] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778828.981194] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778849.193606] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778869.450113] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778889.781308] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778910.025234] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778930.198636] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778950.464151] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778970.661234] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[778990.941436] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[779011.204697] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[779031.475286] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[779051.746563] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[779071.919675] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[779092.208566] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[779112.489128] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[779132.779867] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[779153.019546] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[779173.269350] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[779193.507551] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[779213.743161] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[779233.913994] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[779254.069542] wl2: dhd_prot_ioctl: status ret value is -43 iov=escan
+[780543.081265] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[780543.081298] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[780580.080985] wl0: dhd_prot_ioctl: status ret value is -30 cmd=122
+[780580.081001] CFG80211-ERROR) wl_cfg80211_change_station : WLC_SCB_DEAUTHORIZE error (-30)
+[801738.660010] wl1: dhd_prot_ioctl: status ret value is -20 iov=csa
+[848134.221386] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[848134.221412] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[848208.222122] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[848208.222144] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[848273.222758] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[848273.222781] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[848345.225520] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[848345.225543] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[848417.227966] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[848417.227986] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[848483.228893] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[848483.228911] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[848558.229646] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[848558.229670] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[848631.232636] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[848631.232659] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[848699.234045] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[848699.234063] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[848759.235558] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[848759.235576] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[848829.236062] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[848829.236085] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[848895.237246] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[848895.237267] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[848959.238925] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[848959.238945] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[849036.239385] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[849036.239408] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[849097.240102] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[849097.240122] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[849163.240634] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[849163.240658] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[849233.241387] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[849233.241409] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[849296.242037] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[849296.242060] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[849357.243129] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[849357.243146] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[849423.243871] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[849423.243894] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[849501.246673] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[849501.246696] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[849562.247632] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[849562.247658] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[849639.249226] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[849639.249248] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[849716.249582] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[849716.249602] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[849789.301195] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[849789.301213] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[849860.303610] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[849860.303632] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[849934.305154] wl0: dhd_prot_ioctl: status ret value is -21 iov=sta_info
+[849934.305180] CFG80211-ERROR) wl_cfg80211_sta_info : GET STA INFO failed, -21
+[849935.711609] dhd_bus_flow_ring_create_response Flow create Response failure error status = 1 
+[849936.713576] dhd_bus_flow_ring_create_response Flow create Response failure error status = 1 
+[849937.715976] dhd_bus_flow_ring_create_response Flow create Response failure error status = 1 
+[849938.717492] dhd_bus_flow_ring_create_response Flow create Response failure error status = 1 
+[854878.805567] wl0: dhd_prot_ioctl: status ret value is -30 cmd=122
+[854878.805586] CFG80211-ERROR) wl_cfg80211_change_station : WLC_SCB_DEAUTHORIZE error (-30)
+[856124.956120] wl2: dhd_prot_ioctl: status ret value is -30 cmd=122
+[856124.956137] CFG80211-ERROR) wl_cfg80211_change_station : WLC_SCB_DEAUTHORIZE error (-30)
+
+============================================================
+UPLOAD RESULTS TO BCEO
+============================================================
