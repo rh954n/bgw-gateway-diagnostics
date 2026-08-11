@@ -40,7 +40,37 @@ and can upload results to:
 using SCP.
 
 ## Notes
+---
 
+## Author
+
+**Reza Hassani**  
+Lead Advanced Network Technical Support
+
+### Projects
+- BGW320 Health Analyzer
+- BGW620 WiFi / PWiFi Health Analyzer
+- RG Diagnostics and Automation Tools
+
+### Repository
+
+https://github.com/rh954n/bgw-gateway-diagnostics
+
+---
+
+## Released Versions
+
+### BGW320 Health Analyzer
+- V1.2a
+- V1.2b
+
+### BGW620 WiFi/PWiFi Health Analyzer
+- V3.4
+- V3.5
+- V3.5.1
+- V3.5.2
+- V3.5.3
+- V3.5.4b
 Read-only diagnostics.
 ## Version History
 
